@@ -6,17 +6,27 @@ If you are here to search for resources and mass information on the different pr
 
 # Sections: 
 
-[ICS_Challenge](#ICS_Challenge)
-[ICS_Computer_Emergencyr_Esponse_Team](#ICS_CERT)
-[ICS_Protocol](#ICS_Protocol)
-[ICS_Ressource_And_Pcap_collection](#ICS_Ressource_And_Pcap_collection)
-[ICS_Security_paper_and_article](#ICS_Security_paper_and_article)
-[ICS_Tool_And_PLC_Emulator](#ICS_Tool_And_PLC_Emulator)
-[ICS_Lab_Setup_And_Hacking_Tutorial](#ICS_Lab_Setup_And_Hacking_Tutorial)
-[Hardware](#Hardware)
-[ICS_Training](#ICS_Training)
-[ICS_General_Information](#ICS_General_Information)
-[ICS_Protocol_Parameter](#ICS_Protocol_Parameter)
+- [ICS_Challenge](#ICS_Challenge)
+
+- [ICS_Computer_Emergencyr_Esponse_Team](#ICS_CERT)
+
+- [ICS_Protocol](#ICS_Protocol)
+
+- [ICS_Ressource_And_Pcap_collection](#ICS_Ressource_And_Pcap_collection)
+
+- [ICS_Security_paper_and_article](#ICS_Security_paper_and_article)
+
+- [ICS_Tool_And_PLC_Emulator](#ICS_Tool_And_PLC_Emulator)
+
+- [ICS_Lab_Setup_And_Hacking_Tutorial](#ICS_Lab_Setup_And_Hacking_Tutorial)
+
+- [Hardware](#Hardware)
+
+- [ICS_Training](#ICS_Training)
+
+- [ICS_General_Information](#ICS_General_Information)
+
+- [ICS_Protocol_Parameter](#ICS_Protocol_Parameter)
 
 ### ICS_Challenge
 
