@@ -73,6 +73,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [openplcproject.github.io/reference/dnp3-outstation/index.md at master](https://github.com/openplcproject/openplcproject.github.io/blob/master/reference/dnp3-outstation/index.md) |                                                                        |
 | [gymgit/s7-pcaps: Traffic captures between STEP7 WinCC and S7-300/S7-400 PLCs](https://github.com/gymgit/s7-pcaps)                                                                 |                                                                        |
 | [Electra dataset , aglomerations of multiple big pcap](http://perception.inf.um.es/ICS-datasets/)                                                                                  |                                                                        |
+| [my personal star list on github (more than 70 related ICS repos)](https://github.com/stars/biero-el-corridor/lists/ics)                                                           |                                                                        |
 
 ### ICS_Security_paper_and_article
 
@@ -132,6 +133,8 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [Fortiphyd Logic - YouTube](https://www.youtube.com/channel/UCt8y1lf8UBoZipoLj0a8pVA)                                                                                                           |             |
 | [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec)                 |             |
 | [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/),                                                                                                         |             |
+| [S7comm phisical lab setup PART 1](https://medium.com/@biero-llagas/setup-and-exploit-a-physical-ics-lab-s7comm-part1-98cbc26672b1)                                                             |             |
+| [S7comm phisical lab setup PART 2](https://medium.com/@biero-llagas/setup-exploit-and-harden-a-physical-ics-lab-s7comm-part2-e75ddf52ef70)                                                      |             |
 
 ### Hardware
 
