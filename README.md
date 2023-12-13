@@ -11,6 +11,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
 - [OT\_ressource\_list](#ot_ressource_list)
 - [Information](#information)
 - [Sections:](#sections)
+    - [ICS\_Book](#ics_book)
     - [ICS\_Challenge](#ics_challenge)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
@@ -23,6 +24,11 @@ The rest is just a compulsion of my own research. if you are interested, an html
     - [ICS\_General\_Information](#ics_general_information)
     - [ICS\_Protocol\_Parameter](#ics_protocol_parameter)
 
+### ICS_Book
+
+| title                                                                                                                                                                                      | description                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- |
+| [Industrial Cyber , Effiently monitor the cybersecurity posture of you IC environement](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | Pascal Ackerman , Packet editions |
 
 ### ICS_Challenge 
 
@@ -44,13 +50,17 @@ The rest is just a compulsion of my own research. if you are interested, an html
 
 ### ICS_Protocol
 
-| title                                                                                                                                              | description |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [IEC 61131-3 - Wikipedia](https://en.wikipedia.org/wiki/IEC_61131-3)                                                                               |             |
-| [TCF - Eclipsepedia](https://wiki.eclipse.org/TCF)                                                                                                 |             |
-| [ascolab GmbH](https://www.ascolab.com/index.php)                                                                                                  |             |
-| [plugins/epan/opcua · master · Wireshark Foundation / wireshark · GitLab](https://gitlab.com/wireshark/wireshark/-/tree/master/plugins/epan/opcua) |             |
-| [BACnet stack - open source BACnet protocol stack](https://bacnet.sourceforge.net/)                                                                |             |
+| title                                                                                                                                                                        | description |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [IEC 61131-3 - Wikipedia](https://en.wikipedia.org/wiki/IEC_61131-3)                                                                                                         |             |
+| [TCF - Eclipsepedia](https://wiki.eclipse.org/TCF)                                                                                                                           |             |
+| [ascolab GmbH](https://www.ascolab.com/index.php)                                                                                                                            |             |
+| [plugins/epan/opcua · master · Wireshark Foundation / wireshark · GitLab](https://gitlab.com/wireshark/wireshark/-/tree/master/plugins/epan/opcua)                           |             |
+| [BACnet stack - open source BACnet protocol stack](https://bacnet.sourceforge.net/)                                                                                          |             |
+| [Current list of all used app with OPC UA compliency](https://opcfoundation.org/products/)                                                                                   |             |
+| [Overall ethenet protocol usage and specifications for allan bradley PLC](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) |             |
+
+
 ### ICS_Ressource_And_Pcap_collection
 
 | title                                                                                                                                                                              | description                                                            |
@@ -62,6 +72,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [MITRE ICS matrix](https://attack.mitre.org/matrices/ics/)                                                                                                                         |                                                                        |
 | [openplcproject.github.io/reference/dnp3-outstation/index.md at master](https://github.com/openplcproject/openplcproject.github.io/blob/master/reference/dnp3-outstation/index.md) |                                                                        |
 | [gymgit/s7-pcaps: Traffic captures between STEP7 WinCC and S7-300/S7-400 PLCs](https://github.com/gymgit/s7-pcaps)                                                                 |                                                                        |
+| [Electra dataset , aglomerations of multiple big pcap](http://perception.inf.um.es/ICS-datasets/)                                                                                  |                                                                        |
 
 ### ICS_Security_paper_and_article
 
@@ -83,6 +94,12 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [Grehack - Paper - Industrial Control Systems Dynamic Code Injection.pdf](https://grehack.fr/data/grehack2015/paper/Grehack%202015%20-%20Paper%20-%20Industrial%20Control%20Systems%20Dynamic%20Code%20Injection.pdf) |             |
 | [AMNESIA:33 How TCP/IP Stacks Breed Critical Vulnerabilities in IoT, OT and IT Devices](https://www.forescout.com/resources/amnesia33-how-tcp-ip-stacks-breed-critical-vulnerabilities-in-iot-ot-and-it-devices/)     |             |
 | [Assessing the BACnet Control System Vulnerability  Dragos](https://www.dragos.com/blog/industry-news/assessing-the-bacnet-control-system-vulnerability/)                                                             |             |
+| [VIRTUAL PLC PLATFORM FOR SECURITY AND FORENSICS OF INDUSTRIAL CONTROL SYSTEMS](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=8604&context=etd)                                                         |             |
+| [Towards High-Interaction Virtual ICS Honeypots-in-a-Box](https://tippenhauer.de/publication/antonioli-16-towards/antonioli-16-towards.pdf)                                                                           |             |
+| [Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology](https://www.mandiant.com/resources/blog/sandworm-disrupts-power-ukraine-operational-technology)                              |             |
+| [Pwn2Own Miami 2022: OPC UA .NET Standard Trusted Application Check Bypass](https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/)                                          |             |
+| [Siemens Trust Center PKI](https://assets.new.siemens.com/siemens/assets/api/uuid:2aa471ee-28c2-42f0-9df8-f7bc6e5e658d/siemens-pki-ca-policy-2020.pdf)                                                                |             |
+
 ### ICS_Tool_And_PLC_Emulator
 
 | title                                                                                                                                        | description |
@@ -99,6 +116,10 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [gec/dnp3slavesim: Parallel dnp3 slave simulator](https://github.com/gec/dnp3slavesim)                                                       |             |
 | [Download Free Trial Version – DNP3, MODBUS, OPC Client & Server Simulator](https://icsprotocols.wordpress.com/download-free-trial-version/) |             |
 | [eflexsystems/openplc-server - Docker Image  Docker Hub](https://hub.docker.com/r/eflexsystems/openplc-server)                               |             |
+| [modifier conpot of multiple ICS protocol](https://hub.docker.com/u/raconpot)                                                                |             |
+| [PLC emulator modbus and bacnet) linux based](https://www.bh-automation.com/#proview)                                                        |             |
+| [The World's Most Popular Allen-Bradley PLC Simulato](https://canadu.com/lp/logixpro.html)                                                   |             |
+
 ### ICS_Lab_Setup_And_Hacking_Tutorial
 
 | title                                                                                                                                                                                           | description |
@@ -141,3 +162,4 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [M256-Automation/PLCnext-Useful-Commands: A list of useful commands on PLCnext terminal](https://github.com/M256-Automation/PLCnext-Useful-Commands) |             |
 | [Modbus funtions code explenations](https://ozeki.hu/p_5846-appendix.html)                                                                           |             |
+| [Official page for programing parameter of snap 7 on the LOGO! 8](https://snap7.sourceforge.net/logo.html)                                           |             |
