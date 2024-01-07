@@ -13,22 +13,22 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 - [OT_Resource_List](#ot_resource_list)
 - [Information](#information)
 - [Sections:](#sections)
-    - [ICS_Book](#ics_book)
-    - [ICS_Challenge](#ics_challenge)
-    - [ICS_CERT](#ics_cert)
-    - [ICS_Protocol](#ics_protocol)
-    - [ICS_Resource_List_And_PCAP_Collection](#ics_resource_list_and_pcap_collection)
-    - [ICS_Security_Paper_and_Article](#ics_security_paper_and_article)
-    - [ICS_Tool_And_PLC_Emulator](#ics_tool_and_plc_emulator)
-    - [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial)
+    - [ICS\_Book](#ics_book)
+    - [ICS\_Challenge](#ics_challenge)
+    - [ICS\_CERT](#ics_cert)
+    - [ICS\_Protocol](#ics_protocol)
+    - [ICS\_Ressource\_List\_And\_Pcap\_collection](#ics_ressource_list_and_pcap_collection)
+    - [ICS\_Security\_paper\_and\_article](#ics_security_paper_and_article)
+    - [ICS\_Tool\_And\_PLC\_Emulator](#ics_tool_and_plc_emulator)
+    - [ICS\_Lab\_Setup\_And\_Hacking\_Tutorial](#ics_lab_setup_and_hacking_tutorial)
     - [Hardware](#hardware)
-    - [ICS_Training](#ics_training)
-    - [ICS_General_Information](#ics_general_information)
-    - [ICS_Protocol_Parameter](#ics_protocol_parameter)
-    - [ICS_Job](#ics_job)
-    - [ICS_Book](#ics_book-1)
-    - [ICS_News](#ics_news)
-    - [ICS_Requirement-Guide_and_Standard](#ics_requirement-guide_and_standard)
+    - [ICS\_Training](#ics_training)
+    - [ICS\_General\_Information](#ics_general_information)
+    - [ICS\_Protocol\_Parameter](#ics_protocol_parameter)
+    - [ICS\_Job](#ics_job)
+    - [ICS\_book](#ics_book-1)
+    - [ICS\_News](#ics_news)
+    - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
 
 ### ICS_Book
 
@@ -213,4 +213,3 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | Title | Description |
 | ----- | ----------- |
 |[DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf)| DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE|
-
