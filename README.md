@@ -2,7 +2,7 @@
 My personal OT resource list, gather throughout research and internet adventure.
 
 # Information
-If you are here to search for resources and mass information on the different protocols and concept, I advise you to go directly to the sections [ICS_Ressource_And_Pcap_collection](#ICS_Ressource_And_Pcap_collection) and [ICS_Lab_Setup_And_Hacking_Tutorial](#ICS_Lab_Setup_And_Hacking_Tutorial).
+If you are here to search for resources and mass information on the different protocols and concept, I advise you to go directly to the sections [ICS_Ressource_And_Pcap_collection](#ics_ressource_list_and_pcap_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ICS_Lab_Setup_And_Hacking_Tutorial), and [ICS_News](#ics_news).
 
 The rest is just a compulsion of my own research. if you are interested, an html bookmark file, usable on firefox is available.
 
@@ -15,7 +15,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
     - [ICS\_Challenge](#ics_challenge)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
-    - [ICS\_Ressource\_And\_Pcap\_collection](#ics_ressource_and_pcap_collection)
+    - [ICS\_Ressource\_List\_And\_Pcap\_collection](#ics_ressource_list_and_pcap_collection)
     - [ICS\_Security\_paper\_and\_article](#ics_security_paper_and_article)
     - [ICS\_Tool\_And\_PLC\_Emulator](#ics_tool_and_plc_emulator)
     - [ICS\_Lab\_Setup\_And\_Hacking\_Tutorial](#ics_lab_setup_and_hacking_tutorial)
@@ -23,6 +23,10 @@ The rest is just a compulsion of my own research. if you are interested, an html
     - [ICS\_Training](#ics_training)
     - [ICS\_General\_Information](#ics_general_information)
     - [ICS\_Protocol\_Parameter](#ics_protocol_parameter)
+    - [ICS\_Job](#ics_job)
+    - [ICS\_book](#ics_book-1)
+    - [ICS\_News](#ics_news)
+    - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
 
 ### ICS_Book
 
@@ -61,7 +65,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [Overall ethenet protocol usage and specifications for allan bradley PLC](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) |             |
 
 
-### ICS_Ressource_And_Pcap_collection
+### ICS_Ressource_List_And_Pcap_collection
 
 | title                                                                                                                                                                              | description                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -74,7 +78,8 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [gymgit/s7-pcaps: Traffic captures between STEP7 WinCC and S7-300/S7-400 PLCs](https://github.com/gymgit/s7-pcaps)                                                                 |                                                                        |
 | [Electra dataset , aglomerations of multiple big pcap](http://perception.inf.um.es/ICS-datasets/)                                                                                  |                                                                        |
 | [my personal star list on github (more than 70 related ICS repos)](https://github.com/stars/biero-el-corridor/lists/ics)                                                           |                                                                        |
-
+|||
+| [ MrM8BRH github user ressource list ](https://github.com/MrM8BRH/CRLJ/blob/main/Red%20Team%20%26%20Penetration%20Testing/ICS%20%26%20SCADA.md)| |
 ### ICS_Security_paper_and_article
 
 | title                                                                                                                                                                                                                 | description |
@@ -100,6 +105,7 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology](https://www.mandiant.com/resources/blog/sandworm-disrupts-power-ukraine-operational-technology)                              |             |
 | [Pwn2Own Miami 2022: OPC UA .NET Standard Trusted Application Check Bypass](https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/)                                          |             |
 | [Siemens Trust Center PKI](https://assets.new.siemens.com/siemens/assets/api/uuid:2aa471ee-28c2-42f0-9df8-f7bc6e5e658d/siemens-pki-ca-policy-2020.pdf)                                                                |             |
+|[russions RE modion PLC](https://habr.com/ru/articles/752178/)| some russian who reverse engenier the Modicom PLC from shneider|
 
 ### ICS_Tool_And_PLC_Emulator
 
@@ -151,13 +157,15 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [ICS Training Calendar  CISA](https://www.cisa.gov/ics-training-calendar)             |             |
 | [ICS 301v Review · Aaron Hoffmann](https://aaron-hoffmann.com/posts/ics-301v-review/) |             |
 | [HOME  Dean Parsons](https://www.icsdefenseforce.com/)                                |             |
-
+| [assessing-and-exploiting-control-systems-iiot](https://downturk.net/2825155-scada-pentesting-brucon.html) | |
+| [Global Industrial Cyber Security Professional (GICSP)](https://www.credly.com/badges/252931d5-7467-40df-bba9-e4aa857b0c50/linked_in?t=s69v1d) | |
 ### ICS_General_Information
 
 | title                                                                                                                                                    | description |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [Industrial Automation Abbreviation  Acronyms – PLC Tutorial Point](https://www.plctutorialpoint.com/industrial-automation-abbreviation-acronyms/)       |             |
 | [Major PLC manufacturers and PLC Software’s List – PLC Tutorial Point](https://www.plctutorialpoint.com/major-plc-manufacturers-and-plc-softwares-list/) |             |
+
 
 ### ICS_Protocol_Parameter
 
@@ -166,3 +174,41 @@ The rest is just a compulsion of my own research. if you are interested, an html
 | [M256-Automation/PLCnext-Useful-Commands: A list of useful commands on PLCnext terminal](https://github.com/M256-Automation/PLCnext-Useful-Commands) |             |
 | [Modbus funtions code explenations](https://ozeki.hu/p_5846-appendix.html)                                                                           |             |
 | [Official page for programing parameter of snap 7 on the LOGO! 8](https://snap7.sourceforge.net/logo.html)                                           |             |
+
+
+### ICS_Job
+
+| title                                                                                                                                                | description |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|[GRIMM compagny job board](https://grimmcyber.com/careers/)||
+|[DOD job protosal](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=749962)| interesting stuff , from a potential DOD contractor|
+
+
+
+### ICS_book
+
+| title                                                                                                                                                | description |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|[ISC security moniroting from packt (second editions) ](http://cdn.ttgtmedia.com/rms/editorial/bookshelf-industrialcybersecurity-excerpt.pdf)| ICS security from Packt writen by Pascal Ackerman , second editions  |
+|[ICS fiels book ](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf)| basic but usefull stuff|
+
+
+
+### ICS_News
+
+| title                                                                                                                                                | description |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|[claroty ressource panel](https://claroty.com/resources)| very interisting recomend check it out|
+|[scadafence blog panel](https://blog.scadafence.com/)| very interisting recomend check it out|
+|[the only scadahacker blog](https://scadahacker.com/)||
+|[Ruscadasec telegram](https://t.me/s/ruscadasecnews)| russian scda news telegram  |
+|[iraninan ics news telegram ](https://t.me/s/mohandesmaher)| iranian/persian telegram ics related news |
+
+
+
+### ICS_Requirement-guide_and_standart
+
+| title                                                                                                                                                | description |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|[DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf)| DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE|
+
