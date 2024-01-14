@@ -4,21 +4,21 @@ My personal OT resource list, gathered through research and internet adventures.
 
 ## Information
 
-If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ICS_Resource_And_PCAP_Collection](#ics_resource_list_and_pcap_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS_News](#ics_news).
+If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ICS_Resource_&_PCAP_&_dataset_Collection](#ics_resource_list_pcap_dataset_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS_News](#ics_news).
 
 The rest is just a compilation of my own research. If you are interested, an HTML bookmark file, usable on Firefox, is available.
 
 ## Sections:
 
-- [OT_Resource_List](#ot_resource_list)
-- [Information](#information)
-- [Sections:](#sections)
+- [OT\_Resource\_List](#ot_resource_list)
+  - [Information](#information)
+  - [Sections:](#sections)
     - [ICS\_Book](#ics_book)
     - [ICS\_Challenge](#ics_challenge)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
-    - [ICS\_Ressource\_List\_And\_Pcap\_collection](#ics_ressource_list_and_pcap_collection)
-    - [ICS\_Security\_paper\_and\_article](#ics_security_paper_and_article)
+    - [ICS\_Resource\_List\_\&_PCAP_\&\_dataset\_Collection](#ics_resource_list_pcap_dataset_collection)
+    - [ICS\_Security\_Paper\_and\_Article](#ics_security_paper_and_article)
     - [ICS\_Tool\_And\_PLC\_Emulator](#ics_tool_and_plc_emulator)
     - [ICS\_Lab\_Setup\_And\_Hacking\_Tutorial](#ics_lab_setup_and_hacking_tutorial)
     - [Hardware](#hardware)
@@ -28,7 +28,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_Job](#ics_job)
     - [ICS\_book](#ics_book-1)
     - [ICS\_News](#ics_news)
-    - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
+    - [ICS\_Requirement-guide\_and\_standard](#ics_requirement-guide_and_standard)
 
 ### ICS_Book
 
@@ -37,7 +37,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Industrial Cyber, Efficiently monitor the cybersecurity posture of your IC environment](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | Pascal Ackerman, Packet editions |
 
 ### ICS_Challenge
-
+|[]()||
 | Title | Description |
 | ----- | ----------- |
 | [Labtainer Lab Summary - Center for Cybersecurity and Cyber Operations - Naval Postgraduate School](https://nps.edu/web/c3o/labtainer-lab-summary1) | |
@@ -45,6 +45,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Play Now with BOTS Partner Experiences: Dragos Splunk](https://www.splunk.com/en_us/blog/security/play-now-with-bots-partner-experiences-dragos1.html) | |
 | [WRITE UP: Color Plant 1+2 (Misc) - FCSC2022](https://blog.reinom.com/story/ctf/fcsc2022/misc/colorplant/) | |
 | [Hack a Sat challenge](https://hackasat.com/) | |
+
+
 
 ### ICS_CERT
 
@@ -66,7 +68,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Current list of all used apps with OPC UA compliance](https://opcfoundation.org/products/) | |
 | [Overall Ethernet protocol usage and specifications for Allan Bradley PLC](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | |
 
-### ICS_Resource_List_And_PCAP_Collection
+
+
+
+### ICS_Resource_List_&_PCAP_&_dataset_Collection
 
 | Title | Description |
 | ----- | ----------- |
@@ -80,6 +85,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Electra dataset, aggregations of multiple big PCAP](http://perception.inf.um.es/ICS-datasets/) | |
 | [My personal star list on GitHub (more than 70 related ICS repos)](https://github.com/stars/biero-el-corridor/lists/ics) | |
 | [MrM8BRH GitHub user resource list](https://github.com/MrM8BRH/CRLJ/blob/main/Red%20Team%20%26%20Penetration%20Testing/ICS%20%26%20SCADA.md) | |
+|[OPC UA DATASET](https://digi2-feup.github.io/OPCUADataset/)|The OPC UA CSV source file can be downloaded here. You can also find it in the IEEE DataPort.The generation of the dataset containing OPC UA traffic was possible due to the setup and execution of a laboratory CPPS testbed. This CPPS uses OPC UA standard for horizontal and vertical communications. Regarding the CPPS testbed setup, it consists on seven nodes in the network, as represented in the next Figure.|
+|[OPC UA DARASET](https://paperswithcode.com/dataset/dataset-to-easing-the-conscience-with-opc-ua)| Dataset to "Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments" |
+
 
 ### ICS_Security_Paper_and_Article
 
@@ -107,6 +115,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Pwn2Own Miami 2022: OPC UA .NET Standard Trusted Application Check Bypass](https://sector7.computest.nl/post/2022-07-opc-ua-net-standard-trusted-application-check-bypass/) | |
 | [Siemens Trust Center PKI](https://assets.new.siemens.com/siemens/assets/api/uuid:2aa471ee-28c2-42f0-9df8-f7bc6e5e658d/siemens-pki-ca-policy-2020.pdf) | |
 | [Russian RE Modicon PLC](https://habr.com/ru/articles/752178/) | Some Russian who reverse-engineered the Modicon PLC from Schneider |
+|[HTB ICS network segmentation](https://www.hackthebox.com/blog/ics-network-segmentation)|Learn about the Purdue Model of ICS network segmentation from Hack The Box's ICS expert Barry "8balla" Murrell.|
+|[Article about offensive onsint on OT equipement?](https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/)|Offensive OSINT s01e04 - Intelligence gathering on critical infrastructure in Southeast Asia|
+
+
 
 ### ICS_Tool_And_PLC_Emulator
 
@@ -127,6 +139,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Modifier Conpot of multiple ICS protocols](https://hub.docker.com/u/raconpot) | |
 | [PLC emulator Modbus and BACnet - Linux based](https://www.bh-automation.com/#proview) | |
 | [The World's Most Popular Allen-Bradley PLC Simulator](https://canadu.com/lp/logixpro.html) | |
+|[ ICS Development Kits.](https://www.traeger.de/products/development)|Downloadable SDK for multiple Protocol (very cool)|
+
+
 
 ### ICS_Lab_Setup_And_Hacking_Tutorial
 
@@ -142,6 +157,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/) |             |
 | [S7comm physical lab setup PART 1](https://medium.com/@biero-llagas/setup-and-exploit-a-physical-ics-lab-s7comm-part1-98cbc26672b1) |             |
 | [S7comm physical lab setup PART 2](https://medium.com/@biero-llagas/setup-exploit-and-harden-a-physical-ics-lab-s7comm-part2-e75ddf52ef70) |             |
+|[Investigations challenge on ICS equipement](https://github.com/biero-el-corridor/Chall_cretation)| investigate dammage related ICS cyberattack|
 
 ### Hardware
 
@@ -160,6 +176,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [HOME  Dean Parsons](https://www.icsdefenseforce.com/) |             |
 | [Assessing and exploiting control systems IIOT](https://downturk.net/2825155-scada-pentesting-brucon.html) | |
 | [Global Industrial Cyber Security Professional (GICSP)](https://www.credly.com/badges/252931d5-7467-40df-bba9-e4aa857b0c50/linked_in?t=s69v1d) | |
+|[ICS Cyber conference](https://www.icscybersecurityconference.com/)|Some conference for ICS|
+
 
 ### ICS_General_Information
 
@@ -193,7 +211,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 |[ISC security monitoring from Packt (second edition)](http://cdn.ttgtmedia.com/rms/editorial/bookshelf-industrialcybersecurity-excerpt.pdf)| ICS security from Packt written by Pascal Ackerman, second edition  |
 |[ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf)| basic but useful stuff|
-
+|[Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view)| The best book you can find yet (from personal experience)|
+|[]()||
 
 
 ### ICS_News
@@ -205,6 +224,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[The only Scadahacker blog](https://scadahacker.com/)||
 |[Ruscadasec telegram](https://t.me/s/ruscadasecnews)| Russian SCADA news telegram  |
 |[Iranian ICS news telegram](https://t.me/s/mohandesmaher)| Iranian/Persian telegram ICS-related news |
+|[Offensive OSINT blog news](https://www.offensiveosint.io/)|From the creator of KAMERKA|
+|[Good old Hackernews](https://thehackernews.com/)||
+|[Securityweek news OT/ICS sections](https://www.securityweek.com/category/ics-ot/)|Securityweek news OT/ICS sections|
 
 
 
@@ -213,3 +235,4 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | Title | Description |
 | ----- | ----------- |
 |[DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf)| DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE|
+|[OPC UA Security Analysis ](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/OPCUA/OPCUA_2022_EN.pdf?__blob=publicationFile&v=4)|OPC UA Security Analysis from the Gemran Goevernement|
