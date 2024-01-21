@@ -35,7 +35,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | Title | Description |
 | ----- | ----------- |
 | [Industrial Cyber, Efficiently monitor the cybersecurity posture of your IC environment](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | Pascal Ackerman, Packet editions |
-
+|[ISC security monitoring from Packt (second edition)](http://cdn.ttgtmedia.com/rms/editorial/bookshelf-industrialcybersecurity-excerpt.pdf)| ICS security from Packt written by Pascal Ackerman, second edition  |
+|[ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf)| basic but useful stuff|
+|[Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view)| The best book you can find yet (from personal experience)|
+|[]()||
 ### ICS_Challenge
 |[]()||
 | Title | Description |
@@ -203,16 +206,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[GRIMM company job board](https://grimmcyber.com/careers/)||
 |[DOD job proposals](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=749962)| interesting stuff, from a potential DOD contractor|
 
-
-
-### ICS_book
-
-| Title | Description |
-| ----- | ----------- |
-|[ISC security monitoring from Packt (second edition)](http://cdn.ttgtmedia.com/rms/editorial/bookshelf-industrialcybersecurity-excerpt.pdf)| ICS security from Packt written by Pascal Ackerman, second edition  |
-|[ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf)| basic but useful stuff|
-|[Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view)| The best book you can find yet (from personal experience)|
-|[]()||
 
 
 ### ICS_News
