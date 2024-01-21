@@ -26,7 +26,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_General\_Information](#ics_general_information)
     - [ICS\_Protocol\_Parameter](#ics_protocol_parameter)
     - [ICS\_Job](#ics_job)
-    - [ICS\_book](#ics_book-1)
     - [ICS\_News](#ics_news)
     - [ICS\_Requirement-guide\_and\_standard](#ics_requirement-guide_and_standard)
 
