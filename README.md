@@ -38,6 +38,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf)| basic but useful stuff|
 |[Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view)| The best book you can find yet (from personal experience)|
 |[]()||
+
+
 ### ICS_Challenge
 |[]()||
 | Title | Description |
@@ -57,6 +59,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [CERT Siemens](https://new.siemens.com/global/en/products/services/cert.html) | |
 | [CERT ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) | |
 | [CERT Schneider](https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp) | |
+| [Team82 CVE disclosure](https://claroty.com/team82/disclosure-dashboard)| Claroty Team82 CVE disclosure |
+| [Dragos CVE disclosure](https://www.dragos.com/advisories/)| Dragos CVE Discosure |
 
 ### ICS_Protocol
 
@@ -119,7 +123,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Russian RE Modicon PLC](https://habr.com/ru/articles/752178/) | Some Russian who reverse-engineered the Modicon PLC from Schneider |
 |[HTB ICS network segmentation](https://www.hackthebox.com/blog/ics-network-segmentation)|Learn about the Purdue Model of ICS network segmentation from Hack The Box's ICS expert Barry "8balla" Murrell.|
 |[Article about offensive onsint on OT equipement?](https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/)|Offensive OSINT s01e04 - Intelligence gathering on critical infrastructure in Southeast Asia|
-
+|[CVE-2019-12480 article releated](https://1modm.github.io/CVE-2019-12480.html)| article on how they have discover the vulnerability (spoiler by fuzzing) |
+|[Article by forescout](https://www.forescout.com/blog/analysis-of-energy-sector-cyberattacks-in-denmark-and-ukraine/)| Clearing the Fog of War – A critical analysis of recent energy sector cyberattacks in Denmark and Ukraine |
+|[siemens simatic exploit article](https://securityaffairs.com/93939/ics-scada/siemens-simatic-flaw.html)| Experts found undocumented access feature in Siemens SIMATIC PLCs |
+|[Nozomi Hour | november 2023](https://www.nozominetworks.com/resources/nozomi-hour-the-latest-ot-iot-security-insights?utm_content=278710155&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5093151)| Hear the latest OT/IoT cybersecurity updates and insights from our industry expert Anton Shipulin. He discusses the latest developments in the OT/IoT threat landscape and shows you how to take full advantage of the Nozomi Networks platform, your best defense against current and future cyber threats. |
 
 
 ### ICS_Tool_And_PLC_Emulator
@@ -141,7 +148,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Modifier Conpot of multiple ICS protocols](https://hub.docker.com/u/raconpot) | |
 | [PLC emulator Modbus and BACnet - Linux based](https://www.bh-automation.com/#proview) | |
 | [The World's Most Popular Allen-Bradley PLC Simulator](https://canadu.com/lp/logixpro.html) | |
-|[ ICS Development Kits.](https://www.traeger.de/products/development)|Downloadable SDK for multiple Protocol (very cool)|
+| [ ICS Development Kits.](https://www.traeger.de/products/development)|Downloadable SDK for multiple Protocol (very cool)|
+| [Rapid SCADA website](https://rapidscada.org/)| Rapid SCADA is an open source industrial automation platform. The out of the box software provides tools for rapid creation of monitoring and control systems. In case of large implementation, Rapid SCADA is used as a core for development of custom SCADA and MES solutions for a Customer. |
+
 
 
 
@@ -219,7 +228,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[Offensive OSINT blog news](https://www.offensiveosint.io/)|From the creator of KAMERKA|
 |[Good old Hackernews](https://thehackernews.com/)||
 |[Securityweek news OT/ICS sections](https://www.securityweek.com/category/ics-ot/)|Securityweek news OT/ICS sections|
-
+|[Security affair](https://securityaffairs.com/tag/plc)||
+|[Japanese cyber ICS/OT news](https://iototsecnews.jp/)||
 
 
 ### ICS_Requirement-guide_and_standard
