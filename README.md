@@ -4,7 +4,7 @@ My personal OT resource list, gathered through research and internet adventures.
 
 ## Information
 
-If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ICS_Resource_&_PCAP_&_dataset_Collection](#ics_resource_list_pcap_dataset_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS_News](#ics_news).
+If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ics\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS\_news\_outlet](#ics_news_outlet).
 
 The rest is just a compilation of my own research. If you are interested, an HTML bookmark file, usable on Firefox, is available.
 
