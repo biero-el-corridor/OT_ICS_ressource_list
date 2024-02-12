@@ -158,10 +158,8 @@ and Ukraine  |
 | [Virtual Industrial Cybersecurity Lab archivos - Rodrigo Cantera](https://rodrigocantera.com/en/category/virtual-industrial-cybersecurity-lab/) ||
 | [How to set up an OT analysis lab.  by biero llagas  Medium](https://medium.com/@biero-llagas/how-to-set-up-an-ot-analysis-lab-351a111ab33e) ||
 | [Let’s Call It a Day — Virtual SCADA Hacking with GRFICSv2 Part 1  ](https://medium.com/@kelvin.w/lets-call-it-a-day-virtual-scada-hacking-with-grficsv2-part-1-4c0dd257724e) ||
-| [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec?gi=a90154b0c22a) |  |
 | [Fortiphyd Logic - YouTube](https://www.youtube.com/channel/UCt8y1lf8UBoZipoLj0a8pVA) ||    
 | [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec) |  |
-| [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec) ||
 | [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/) ||   
 | [Rapid SCADA website](https://rapidscada.org/) | Rapid SCADA is an open source industrial automation platform. The out of the box software provides tools for rapid creation of monitoring and control systems. In case of large implementation, Rapid SCADA is used as a core for development of custom SCADA and MES solutions for a Customer.  |
 | [Investigations challenge on ICS equipement](https://github.com/biero-el-corridor/Chall_cretation) | investigate dammage related ICS cyberattack |
