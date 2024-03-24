@@ -34,6 +34,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
     - [ICS\_Monitoring\_equipement](#ics_monitoring_equipement)
 
+---
+
 ### ICS_challenge
 
 | Title | Description |
@@ -44,11 +46,16 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [WRITE UP: Color Plant 1+2 (Misc) - FCSC2022](https://blog.reinom.com/story/ctf/fcsc2022/misc/colorplant/) |  |
 | [Hack a Sat challenge](https://hackasat.com/) |  |
 
+---
 ### ICS_OSINT
 
 | Title | Description |
 | ----- | ----------- |
 | [Shadowservers world map of OT equipment 1](https://dashboard.shadowserver.org/statistics/iot-devices/map/) | |
+| [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
+
+---
+
 ### public ip browser
 
 | Title | Description |
@@ -58,6 +65,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Shodan](https://www.shodan.io/) | |
 | [Zoomeye](https://www.zoomeye.org/) | best IP search engine on the east side of the world |
 | [censys](https://search.censys.io/) | |
+| [Onyphe](https://www.onyphe.io/) | French shodan like , that is really interesting|
+
+---
+
 ### IP browser api automations tool
 
 | Title | Description |
@@ -67,6 +78,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [API base cli search for IP browser](https://github.com/xzajyjs/ThunderSearch) | |
 | [API base cli search for shodan and other](https://github.com/sdnewhop/grinder) | |
 
+---
+
 ### ICS_CERT
 
 | Title | Description |
@@ -75,6 +88,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [CERT ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) |  |     
 | [CERT Schneider](https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp) |  |     
 | [Dragos CVE disclosure](https://www.dragos.com/advisories/) | Dragos CVE Discosure  |
+
+---
 
 ### ICS_Protocol
 
@@ -86,10 +101,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Wireshark Foundation / wireshark · GitLab](https://gitlab.com/wireshark/wireshark/-/tree/master/plugins/epan/opcua) |  |
 | [BACnet stack - open source BACnet protocol stack](https://bacnet.sourceforge.net/) |  |
 | [Current list of all used apps with OPC UA compliance](https://opcfoundation.org/products/) |  |
-| [Industrial Cyber, Efficiently monitor the cybersecurity posture of your IC environment](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | Pascal Ackerman, Packet 
-editions  |
+| [Industrial Cyber, Efficiently monitor the cybersecurity posture of your IC environment](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) | Pascal Ackerman, Packet editions  |
 | [Overall Ethernet protocol usage and specifications for Allan Bradley PLC](https://literature.rockwellautomation.com/idc/groups/literature/documents/rm/enet-rm002_-en-p.pdf) |  |
 | [Official page for programming parameters of snap 7 on the LOGO! 8](https://snap7.sourceforge.net/logo.html) ||
+
+---
 
 ### ics_ressource_pcap_dataset_collection
 
@@ -105,6 +121,9 @@ editions  |
 | [Electra dataset, aggregations of multiple big PCAP](http://perception.inf.um.es/ICS-datasets/) |  |      
 | [OPC UA DATASET](https://digi2-feup.github.io/OPCUADataset/) |The OPC UA CSV source file can be downloaded here. You can also find it in the IEEE DataPort.The generation of the dataset containing OPC UA traffic was possible due to the setup and execution of a laboratory CPPS testbed. This CPPS uses OPC UA standard for horizontal and vertical communications. Regarding the CPPS testbed setup, it consists on seven nodes in the network, as represented in the next Figure. |
 | [OPC UA DARASET](https://paperswithcode.com/dataset/dataset-to-easing-the-conscience-with-opc-ua) | Dataset to "Easing the Conscience with OPC UA: An Internet-Wide Study on Insecure Deployments"  |
+| [Cloudshark mofbus bcap](https://www.cloudshark.org/captures/3bfef9452c76) | online pcap containng modbus and ICP protocol|
+
+---
 
 ### ICS_Security_paper_and_conference
 
@@ -127,8 +146,12 @@ editions  |
 | [Siemens Trust Center PKI](https://assets.new.siemens.com/siemens/assets/api/uuid:2aa471ee-28c2-42f0-9df8-f7bc6e5e658d/siemens-pki-ca-policy-2020.pdf) |  |
 | [HTB ICS network segmentation](https://www.hackthebox.com/blog/ics-network-segmentation) |Learn about the Purdue Model of ICS network segmentation from Hack The Box's ICS expert Barry "8balla" Murrell. |
 | [CVE-2019-12480 article releated](https://1modm.github.io/CVE-2019-12480.html) | article on how they have  discover the vulnerability (spoiler by fuzzing)  |
-| [Article by forescout](https://www.forescout.com/blog/analysis-of-energy-sector-cyberattacks-in-denmark-and-ukraine/) | Clearing the Fog of War – A critical analysis of recent energy sector cyberattacks in Denmark 
-and Ukraine  |
+| [Article by forescout](https://www.forescout.com/blog/analysis-of-energy-sector-cyberattacks-in-denmark-and-ukraine/) | Clearing the Fog of War – A critical analysis of recent energy sector cyberattacks in Denmark and Ukraine  |
+|[Paper on PLC attack detections and forensic](https://www.mdpi.com/2227-9717/11/3/918)| A Survey on Programmable Logic Controller Vulnerabilities, Attacks, Detections, and Forensics |
+| [Compromising Industrial Processes using Web-Based Programmable Logic Controller Malware](https://www.ndss-symposium.org/wp-content/uploads/2024-49-paper.pdf) |  |
+| [CWE Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) | While IT has an extant body of work related to identifying and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure. |
+
+---
 
 ### ICS_Tool_And_PLC_Emulator
 
@@ -150,6 +173,8 @@ and Ukraine  |
 | [Modifier Conpot of multiple ICS protocols](https://hub.docker.com/u/raconpot) |  |
 | [ ICS Development Kits.](https://www.traeger.de/products/development) |Downloadable SDK for multiple Protocol (very cool) |
 
+---
+
 ### ICS_Lab_Setup_And_Hacking_Tutorial
 
 | Title | Description |
@@ -164,6 +189,8 @@ and Ukraine  |
 | [Rapid SCADA website](https://rapidscada.org/) | Rapid SCADA is an open source industrial automation platform. The out of the box software provides tools for rapid creation of monitoring and control systems. In case of large implementation, Rapid SCADA is used as a core for development of custom SCADA and MES solutions for a Customer.  |
 | [Investigations challenge on ICS equipement](https://github.com/biero-el-corridor/Chall_cretation) | investigate dammage related ICS cyberattack |
 
+---
+
 ### Hardware
 
 | Title | Description |
@@ -171,6 +198,8 @@ and Ukraine  |
 | [https://falstad.com/circuit/circuitjs.html](https://falstad.com/circuit/circuitjs.html) || 
 | [IC Logos  Elnec](https://www.elnec.com/en/support/ic-logos/?method=logo) ||
 | [An Affordable And Programmable PLC  Hackaday](https://hackaday.com/2022/12/08/an-affordable-and-programmable-plc/) ||
+
+---
 
 ### ICS_Training
 
@@ -183,6 +212,8 @@ and Ukraine  |
 | [Global Industrial Cyber Security Professional (GICSP)](https://www.credly.com/badges/252931d5-7467-40df-bba9-e4aa857b0c50/linked_in?t=s69v1d) |  |
 | [ICS Cyber conference](https://www.icscybersecurityconference.com/) |Some conference for ICS |
 
+---
+
 ### ICS_General_Information
 
 | Title | Description |
@@ -191,6 +222,8 @@ and Ukraine  |
 | [Major PLC manufacturers and PLC Software’s List – PLC Tutorial Point](https://www.plctutorialpoint.com/major-plc-manufacturers-and-plc-softwares-list/) ||
 | [MrM8BRH GitHub user resource list](https://github.com/MrM8BRH/CRLJ/blob/main/Red%20Team%20%26%20Penetration%20Testing/ICS%20%26%20SCADA.md) |  |
 
+---
+
 ### ICS_Protocol_Parameter
 
 | Title | Description |
@@ -198,11 +231,15 @@ and Ukraine  |
 | [M256-Automation/PLCnext-Useful-Commands: A list of useful commands on PLCnext terminal](https://github.com/M256-Automation/PLCnext-Useful-Commands) ||
 | [Modbus functions code explanations](https://ozeki.hu/p_5846-appendix.html) ||
 
+---
+
 ### ICS_job
 
 | Title | Description |
 | ----- | ----------- |
 | [GRIMM company job board](https://grimmcyber.com/careers/) | |
+
+---
 
 ### ICS_book
 
@@ -211,6 +248,9 @@ and Ukraine  |
 | [ISC security monitoring from Packt (second edition)](http://cdn.ttgtmedia.com/rms/editorial/bookshelf-industrialcybersecurity-excerpt.pdf) | ICS security from Packt written by Pascal Ackerman, second edition   |  
 | [ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf) | basic but useful stuff |
 | [Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view) | The best book you can find yet (from personal experience) |        
+| [SCADA for Relay Technicians](https://na.eventscloud.com/file_uploads/ea71f859feae020526fd797b0195b9eb_SCADAforRelayTechs-SlidesNotes-HRS2019.pdf) | |
+
+---
 
 ### ICS_news_article
 
@@ -224,6 +264,9 @@ and Ukraine  |
 | [Assessing the BACnet Control System Vulnerability - Dragos](https://www.dragos.com/blog/industry-news/assessing-the-bacnet-control-system-vulnerability/) |  |
 | [Article about offensive onsint on OT equipement](https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/) | Offensive OSINT s01e04 - Intelligence gathering on critical infrastructure in Southeast Asia |
 | [Nozomi Hour  november 2023](https://www.nozominetworks.com/resources/nozomi-hour-the-latest-ot-iot-security-insights?utm_content=278710155&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5093151) ||
+| [OT Hunt: Finding ICS/OT with ZoomEye](https://alhasawi.medium.com/ot-hunt-finding-ics-ot-with-zoomeye-2fdb303b7f01) | not that incredible article but it can help |
+
+---
 
 ### ICS_news_outlet
 
@@ -239,6 +282,9 @@ and Ukraine  |
 | [Securityweek news OT/ICS sections](https://www.securityweek.com/category/ics-ot/) |Securityweek news OT/ICS sections |
 | [Security affair](https://securityaffairs.com/tag/plc) | |
 | [Japanese cyber ICS/OT news](https://iototsecnews.jp/) | |
+| [FBI Internet Crime Complaint Center (IC3)](https://www.ic3.gov/Home/IndustryAlerts) ||
+
+---
 
 ### ICS_Requirement-guide_and_standart
 
@@ -247,6 +293,10 @@ and Ukraine  |
 | [DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf) | DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE |
 | [OPCUA security German state of the art](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/OPCUA/OPCUA_2022_EN.pdf?__blob=publicationFile&v=4) |  |
 | [OPC UA Security Analysis ](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/OPCUA/OPCUA_2022_EN.pdf?__blob=publicationFile&v=4) |OPC UA Security Analysis from the Gemran Goevernement |     
+|[IRG on Water sector](https://www.ic3.gov/Media/News/2024/240118-2.pdf)| Incident Response Guide Water and Wastewater Sector |
+| [IACS System Testing and Assessment Rating Score Calculator](https://iacs-star-calculator.com/iacs_star_calculator.html) | Method to asses and note vulnerability |
+
+---
 
 ### ICS_Monitoring_equipement
 
@@ -255,3 +305,6 @@ and Ukraine  |
 | [STORMSHIELD-SNi40-Datasheet ](https://www.stormshield-utm.eu/wp-content/uploads/2018/02/STORMSHIELD-SNi40-Datasheet.pdf?_sm_pdc=1&_sm_rid=P2N0B3JRtHtVPS50K3BjVdtssQbMLWB37kPS34r) | |
 | [checkpoint 1570R-rugged-security-gateway-datashee ](https://www.checkpoint.com/downloads/products/1570R-rugged-security-gateway-datasheet.pdf) | | 
 | [Nozomie Network Solutions](https://www.nozominetworks.com/solutions/threat-detection-and-response) | |
+| [SIGASEC](https://sigasec.com/) | monitoring solutions for OT network ? |
+
+---
