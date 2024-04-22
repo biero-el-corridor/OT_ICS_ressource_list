@@ -33,7 +33,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_news\_outlet](#ics_news_outlet)
     - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
     - [ICS\_Monitoring\_equipement](#ics_monitoring_equipement)
-
+    - [ICS\_GROUP\_OR\_ALIANCE\_COMITEE](#ics_group_or_aliance_comitee)
 ---
 
 ### ICS_challenge
@@ -53,6 +53,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [Shadowservers world map of OT equipment 1](https://dashboard.shadowserver.org/statistics/iot-devices/map/) | |
 | [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
+| [Find out what websites are Built With](https://builtwith.com/siemens) | if wappanalyser is a search engine|
 
 ---
 
@@ -150,6 +151,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[Paper on PLC attack detections and forensic](https://www.mdpi.com/2227-9717/11/3/918)| A Survey on Programmable Logic Controller Vulnerabilities, Attacks, Detections, and Forensics |
 | [Compromising Industrial Processes using Web-Based Programmable Logic Controller Malware](https://www.ndss-symposium.org/wp-content/uploads/2024-49-paper.pdf) |  |
 | [CWE Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) | While IT has an extant body of work related to identifying and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure. |
+| [Unpacking the Blackjack Group's Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware) | Unpacking the Blackjack Group's Fuxnet Malware Ukrenian state sponsor attacking russian PLC|
 
 ---
 
@@ -211,6 +213,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Assessing and exploiting control systems IIOT](https://downturk.net/2825155-scada-pentesting-brucon.html) |  |
 | [Global Industrial Cyber Security Professional (GICSP)](https://www.credly.com/badges/252931d5-7467-40df-bba9-e4aa857b0c50/linked_in?t=s69v1d) |  |
 | [ICS Cyber conference](https://www.icscybersecurityconference.com/) |Some conference for ICS |
+| [ISA secure certifications program](https://isasecure.org/) | The ISASecure program delivers OT cybersecurity certifications. |
+
+
 
 ---
 
@@ -230,6 +235,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [M256-Automation/PLCnext-Useful-Commands: A list of useful commands on PLCnext terminal](https://github.com/M256-Automation/PLCnext-Useful-Commands) ||
 | [Modbus functions code explanations](https://ozeki.hu/p_5846-appendix.html) ||
+| [Schneider electric own mofbud documentations](https://product-help.schneider-electric.com/ED/ES_Power/NSX_Modbus_Guide/EDMS/DOCA0091EN/DOCA0091xx/NSX_MB_Modbus_Protocol/NSX_MB_Modbus_Protocol-12.htm) |  |
+
 
 ---
 
@@ -249,6 +256,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ICS field book](https://www.techdata.com/techsolutions/security/files/Navigating_Industrial_Cybersecurity_A_Field_Guide.pdf) | basic but useful stuff |
 | [Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view) | The best book you can find yet (from personal experience) |        
 | [SCADA for Relay Technicians](https://na.eventscloud.com/file_uploads/ea71f859feae020526fd797b0195b9eb_SCADAforRelayTechs-SlidesNotes-HRS2019.pdf) | |
+| [Cybersécurité des systèmes industriels par Jean-Marie Flaus ](https://www.amazon.fr/Cybers%C3%A9curit%C3%A9-syst%C3%A8mes-industriels-Jean-Marie-Flaus/dp/1784055344) | French book on the ICS system |
+
 
 ---
 
@@ -265,6 +274,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Article about offensive onsint on OT equipement](https://www.offensiveosint.io/offensive-osint-s01e03-intelligence-gathering-on-critical-infrastructure-in-southeast-asia/) | Offensive OSINT s01e04 - Intelligence gathering on critical infrastructure in Southeast Asia |
 | [Nozomi Hour  november 2023](https://www.nozominetworks.com/resources/nozomi-hour-the-latest-ot-iot-security-insights?utm_content=278710155&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5093151) ||
 | [OT Hunt: Finding ICS/OT with ZoomEye](https://alhasawi.medium.com/ot-hunt-finding-ics-ot-with-zoomeye-2fdb303b7f01) | not that incredible article but it can help |
+| [water management system hack](https://arstechnica.com/security/2023/11/2-municipal-water-facilities-report-falling-to-hackers-in-separate-breaches/) | 2 municipal water facilities report falling to hackers in separate breaches |
+
 
 ---
 
@@ -283,6 +294,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Security affair](https://securityaffairs.com/tag/plc) | |
 | [Japanese cyber ICS/OT news](https://iototsecnews.jp/) | |
 | [FBI Internet Crime Complaint Center (IC3)](https://www.ic3.gov/Home/IndustryAlerts) ||
+| [centralised podcast themed ICS](https://www.listennotes.com/playlists/beerisac-otics-security-podcast-playlist-j-G0QwC8Zsu/episodes/) | list of ICS themed podcast. |
+| [Industrial Cyber news outlet](https://industrialcyber.co/) | centralise info about vendor new , and other article|
 
 ---
 
@@ -295,6 +308,12 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [OPC UA Security Analysis ](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/OPCUA/OPCUA_2022_EN.pdf?__blob=publicationFile&v=4) |OPC UA Security Analysis from the Gemran Goevernement |     
 |[IRG on Water sector](https://www.ic3.gov/Media/News/2024/240118-2.pdf)| Incident Response Guide Water and Wastewater Sector |
 | [IACS System Testing and Assessment Rating Score Calculator](https://iacs-star-calculator.com/iacs_star_calculator.html) | Method to asses and note vulnerability |
+| [NIST Special Publication SP 800-82r3 Guide to Operational Technology Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) | fondational requirement for anybody who whant to start a OT security program|
+| [NIS directive in eatch EU country](https://digital-strategy.ec.europa.eu/en/policies/nis-directive-france) | specifications and informations about implementations of the NIS directiv in eatch EU country|
+| [The NIST Cybersecurity Framework (CSF) 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) | The NIST Cybersecurity Framework (CSF) 2.0 provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks. It offers a taxonomy of high- level cybersecurity outcomes that can be used by any organization — regardless of its size, sector, or maturity — to better understand, assess, prioritize, and communicate its cybersecurity efforts. |
+| [CWE VIEW: Weaknesses Addressed by ISA/IEC 62443 Requirements](https://cwe.mitre.org/data/definitions/1424.html) | This view (slice) covers weaknesses that are addressed by following requirements in the ISA/IEC 62443 series of standards for industrial automation and control systems (IACS). Members of the CWE ICS/OT SIG analyzed a set of CWEs and mapped them to specific requirements covered by ISA/IEC 62443. |
+| [ (UK)  Control Of Major Accident Hazards Regulations 2015 (COMAH)](https://www.hse.gov.uk/comah/background/comah15.htm) |  |
+| [(Rism Management) EBIOS RM Method](https://cyber.gouv.fr/sites/default/files/2018/10/guide-methode-ebios-risk-manager.pdf) |  |
 
 ---
 
@@ -306,5 +325,15 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [checkpoint 1570R-rugged-security-gateway-datashee ](https://www.checkpoint.com/downloads/products/1570R-rugged-security-gateway-datasheet.pdf) | | 
 | [Nozomie Network Solutions](https://www.nozominetworks.com/solutions/threat-detection-and-response) | |
 | [SIGASEC](https://sigasec.com/) | monitoring solutions for OT network ? |
+| [leroy automations](https://www.leroy-automation.com/gammes/range_tes/) | French PLC manufacturer|
+
+---
+
+### ICS_GROUP_OR_ALIANCE_COMITEE
+
+| Title | Description |
+| ----- | ----------- |
+| [ISA Global Cyber Alliance](https://isagca.org/) ||
+| [Institute of Electrical and Electronics Engineers](https://www.ieee.org/) | not full ICS oriented , but one of the biggest organisations in the electrical and  electronics engeniering field|
 
 ---
