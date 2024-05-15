@@ -2,6 +2,8 @@
 
 My personal OT resource list, gathered through research and internet adventures.
 
+The purpose of this wiki is basically to cover a large sprectrum of Cybersecurity for the OT field, from training to simple definitions of the technical knowledge.
+
 ## Information
 
 If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ics\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection), [ICS_Lab_Setup_And_Hacking_Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS\_news\_outlet](#ics_news_outlet).
