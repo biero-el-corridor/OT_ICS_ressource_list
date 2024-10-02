@@ -17,15 +17,18 @@ The rest is just a compilation of my own research. If you are interested, an HTM
   - [Sections:](#sections)
     - [ICS\_challenge](#ics_challenge)
     - [ICS\_OSINT](#ics_osint)
-    - [public ip browser](#public-ip-browser)
-    - [IP browser api automations tool](#ip-browser-api-automations-tool)
+      - [public ip browser](#public-ip-browser)
+      - [IP browser api automations tool](#ip-browser-api-automations-tool)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
-    - [ics\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection)
+    - [ICS\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection)
     - [ICS\_Security\_paper\_and\_conference](#ics_security_paper_and_conference)
     - [ICS\_Tool\_And\_PLC\_Emulator](#ics_tool_and_plc_emulator)
     - [ICS\_Lab\_Setup\_And\_Hacking\_Tutorial](#ics_lab_setup_and_hacking_tutorial)
     - [Hardware](#hardware)
+      - [Hardware Reverse tutorial](#hardware-reverse-tutorial)
+      - [Datasheet Database](#datasheet-database)
+      - [Misc](#misc)
     - [ICS\_Training](#ics_training)
     - [ICS\_General\_Information](#ics_general_information)
     - [ICS\_Protocol\_Parameter](#ics_protocol_parameter)
@@ -57,9 +60,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
 | [Find out what websites are Built With](https://builtwith.com/siemens) | if wappanalyser is a search engine|
 
----
 
-### public ip browser
+#### public ip browser
 
 | Title | Description |
 | ----- | ----------- |
@@ -69,10 +71,12 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Zoomeye](https://www.zoomeye.org/) | best IP search engine on the east side of the world |
 | [censys](https://search.censys.io/) | |
 | [Onyphe](https://www.onyphe.io/) | French shodan like , that is really interesting|
+| [quanxin](https://hunter.qianxin.com/) |Chniese IP Browser |
+| [Shodan wreapper](https://shdn.io/) | shodan api wrapper with dns record direclty show|
 
----
 
-### IP browser api automations tool
+
+#### IP browser api automations tool
 
 | Title | Description |
 | ----- | ----------- |
@@ -110,7 +114,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 
 ---
 
-### ics_ressource_pcap_dataset_collection
+### ICS_ressource_pcap_dataset_collection
 
 | Title | Description |
 | ----- | ----------- |
@@ -197,11 +201,30 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 
 ### Hardware
 
+#### Hardware Reverse tutorial 
+
 | Title | Description |
 | ----- | ----------- |
-| [https://falstad.com/circuit/circuitjs.html](https://falstad.com/circuit/circuitjs.html) || 
-| [IC Logos  Elnec](https://www.elnec.com/en/support/ic-logos/?method=logo) ||
+| [Hardware reverse course playlist](https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU) |very good introductions to hardware hacking|
+| [Hardware reverse youtube chanelle](https://www.youtube.com/@MakeMeHack) | Everything related to Hardware Hacking and Reverse Engineering including tutorials for beginners and more advanced stuff.|
+
+
+#### Datasheet Database
+
+| Title | Description |
+| ----- | ----------- |
+| [Datasheet Database: alldatasheet](https://www.alldatasheet.com/) ||
+| [Datasheet Database: datasheetcatalog](https://www.datasheetcatalog.com/) ||
+| [Datasheet Database: datadheet](https://www.datasheets.com/) ||
+
+#### Misc 
+
+| Title | Description |
+| ----- | ----------- |
+| [Online Circuit emulator](https://falstad.com/circuit/circuitjs.html) || 
+| [IC logo Database](https://www.elnec.com/en/support/ic-logos/?method=logo) ||
 | [An Affordable And Programmable PLC  Hackaday](https://hackaday.com/2022/12/08/an-affordable-and-programmable-plc/) ||
+| [Wikipedia for IC and stuff](https://techinfodepot.shoutwiki.com/wiki/Main_Page) ||
 
 ---
 
