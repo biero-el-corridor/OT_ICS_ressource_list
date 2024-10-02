@@ -229,14 +229,14 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Datasheet Database: datasheetcatalog](https://www.datasheetcatalog.com/) | DatasheetCatalog.com is free an online datasheet source for electronic components and semiconductors from multiple constructors |
 | [Datasheet Database: datasheets](https://www.datasheets.com/) | Datasheets on electronic components |
 
-#### Misc 
+#### MISC
 
 | Title | Description |
 | ----- | ----------- |
-| [Online Circuit emulator](https://falstad.com/circuit/circuitjs.html) || 
-| [IC logo Database](https://www.elnec.com/en/support/ic-logos/?method=logo) ||
-| [An Affordable And Programmable PLC  Hackaday](https://hackaday.com/2022/12/08/an-affordable-and-programmable-plc/) ||
-| [Wikipedia for IC and stuff](https://techinfodepot.shoutwiki.com/wiki/Main_Page) ||
+| [Online Circuit emulator](https://falstad.com/circuit/circuitjs.html) | Electronic circuit Emulator | 
+| [IC logo Database](https://www.elnec.com/en/support/ic-logos/?method=logo) | Everything's in the title |
+| [An Affordable And Programmable PLC Hackaday](https://hackaday.com/2022/12/08/an-affordable-and-programmable-plc/) | A review of an alternative of a PLC |
+| [TechInfoDepot Wiki](https://techinfodepot.shoutwiki.com/wiki/Main_Page) | Wiki about ICS, but it's not wikipedia |
 
 ---
 
