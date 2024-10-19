@@ -22,6 +22,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_OSINT](#ics_osint)
       - [public ip browser](#public-ip-browser)
       - [IP browser api automations tool](#ip-browser-api-automations-tool)
+      - [ICS honeypot detection](#ics-honeypot-detection)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
     - [ICS\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection)
@@ -57,13 +58,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 ---
 ### ICS_OSINT
 
-| Title | Description |
-| ----- | ----------- |
-| [Shadowservers world map of OT equipment 1](https://dashboard.shadowserver.org/statistics/iot-devices/map/) | Show the world statistics of IoT devices per country |
-| [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
-| [Find out what websites are Built With](https://builtwith.com/siemens) | If wappanalyser is a search engine|
-
-
 ### Public IP browser
 
 | Title | Description |
@@ -76,6 +70,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Onyphe](https://www.onyphe.io/) | French shodan like , that is really interesting|
 | [quanxin](https://hunter.qianxin.com/) |Chniese IP Browser |
 | [Shodan wreapper](https://shdn.io/) | shodan api wrapper with dns record direclty show|
+| [Shadowservers world map of OT equipment 1](https://dashboard.shadowserver.org/statistics/iot-devices/map/) | Show the world statistics of IoT devices per country |
 
 
 ### IP browser API automation tool
@@ -86,6 +81,14 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [API base cli search for FOFA](https://github.com/FofaInfo/Awesome-FOFA/blob/main/Get%20Started%20with%20FOFA/A%20Beginner%E2%80%98s%20Guide.md) | Search engine for mapping the cyberspace |
 | [API base cli search for IP browser](https://github.com/xzajyjs/ThunderSearch) | (CH) Information collection tool for GUI interface developed by the official api of cyberspace search engine |
 | [API base cli search for shodan and other](https://github.com/sdnewhop/grinder) | Python framework to automatically discover and enumerate hosts from different back-end systems (Shodan, Censys)  |
+
+### ICS HONEYPOT DETECTION
+
+| Title | Description |
+| ----- | ----------- |
+| [Honeydet conpot simens signature](https://github.com/referefref/honeydet/blob/d3a0a05799d5f7333dad9946d444c13d0440330e/signatures.yaml#L320) |honeydet is a signature based honeypot detector tool written in Golang |
+| [Honeypot Cyber deceptions based paper](https://ceur-ws.org/Vol-3374/paper06.pdf) | Honeypot and cyber deception as a tool for detecting cyber attacks on critical infrastructure |
+| [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
 
 ---
 
@@ -184,6 +187,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [The World's Most Popular Allen-Bradley PLC Simulator](https://canadu.com/lp/logixpro.html) | A stand-alone PLC training system without the expense of a PLC |
 | [Modifier Conpot of multiple ICS protocols](https://hub.docker.com/u/raconpot) | Modifier Conpots on dockerhub - with docker images from 2021, with 15 repositories |
 | [ ICS Development Kits.](https://www.traeger.de/products/development) |Downloadable SDK for multiple Protocol (very cool) |
+|[Siemens LOGO firmware download page](https://support.industry.siemens.com/cs/document/109812710/firmware-update-v1-83-02-for-logo!-8-3-basic-devices?dti=0&lc=en-FR) | siemens website , siemens LOGO PLC  firmware download page |
+| [snap7 dockerfile](https://hub.docker.com/r/gijzelaerr/snap7/dockerfile) | Docker containing S7-comm protocol capabilities via snap7 lib|
+
 
 ---
 
@@ -295,7 +301,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Industrial Network Security : Securing critical infrastructure network](https://drive.google.com/file/d/1LHpUdxqGotrotCHPg-6fzJfHHJC6jG25/view) | The best book you can find yet (from personal experience) |        
 | [SCADA for Relay Technicians](https://na.eventscloud.com/file_uploads/ea71f859feae020526fd797b0195b9eb_SCADAforRelayTechs-SlidesNotes-HRS2019.pdf) | 2019 book for SCADA beginners |
 | [Cybersécurité des systèmes industriels par Jean-Marie Flaus ](https://www.amazon.fr/Cybers%C3%A9curit%C3%A9-syst%C3%A8mes-industriels-Jean-Marie-Flaus/dp/1784055344) | French book on the ICS system |
-
+| [The Industrial Control System Cyber Kill Chain](https://icscsi.org/library/Documents/White_Papers/SANS%20-%20ICS%20Cyber%20Kill%20Chain.pdf) | The Industrial Control System Cyber Kill Chain writen in October 2015 by SANS|
 
 ---
 
