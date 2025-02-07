@@ -189,7 +189,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ ICS Development Kits.](https://www.traeger.de/products/development) |Downloadable SDK for multiple Protocol (very cool) |
 |[Siemens LOGO firmware download page](https://support.industry.siemens.com/cs/document/109812710/firmware-update-v1-83-02-for-logo!-8-3-basic-devices?dti=0&lc=en-FR) | siemens website , siemens LOGO PLC  firmware download page |
 | [snap7 dockerfile](https://hub.docker.com/r/gijzelaerr/snap7/dockerfile) | Docker containing S7-comm protocol capabilities via snap7 lib|
-
+| [ICSpector](https://github.com/microsoft/ics-forensics-tools) | Microsoft's ICS Forensics Framework for analyzing PLC metadata and project files. Useful for incident response and forensic investigations. |
+| [ICS PCAP Viz](https://github.com/cutaway-security/ICSPcapViz) | A packet capture visualizer designed for industrial control networks, assisting in network traffic analysis and anomaly detection. |
+| [OpenVAS](http://www.openvas.org/) | An open-source vulnerability scanner capable of detecting security flaws in ICS/OT environments. |
 
 ---
 
