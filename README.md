@@ -208,6 +208,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/) | [Down for the moment] A tutorial on PLC hacking |   
 | [Rapid SCADA website](https://rapidscada.org/) | Rapid SCADA is an open source industrial automation platform. The out of the box software provides tools for rapid creation of monitoring and control systems. In case of large implementation, Rapid SCADA is used as a core for development of custom SCADA and MES solutions for a Customer.  |
 | [Investigations challenge on ICS equipement](https://github.com/biero-el-corridor/Chall_cretation) | investigate dammage related ICS cyberattack |
+| [LiuYuancheng Hight interactions Honeypot](https://github.com/LiuYuancheng/Py_PLC_Honey_Pot) | This project aims to develop a sophisticated honeypot system that emulates an OT (Operational Technology) SCADA network environment, bridging Level 1 OT field controller devices.  |
 
 ---
 
@@ -321,6 +322,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Nozomi Hour  november 2023](https://www.nozominetworks.com/resources/nozomi-hour-the-latest-ot-iot-security-insights?utm_content=278710155&utm_medium=social&utm_source=linkedin&hss_channel=lcp-5093151) | Nozomi Hour is usually a 40mn video of the Threat Landscape, posted each semester. Feel free to update yourselves with these links, it's a great source of info for your cyberwatch. |
 | [OT Hunt: Finding ICS/OT with ZoomEye](https://alhasawi.medium.com/ot-hunt-finding-ics-ot-with-zoomeye-2fdb303b7f01) | Article on ZoomEye and how to use it. It's not that incredible article but it can help |
 | [Water management system hack](https://arstechnica.com/security/2023/11/2-municipal-water-facilities-report-falling-to-hackers-in-separate-breaches/) | 2 municipal water facilities report falling to hackers in separate breaches |
+| [widely used modems in industrial iot devices open to sms attack](https://www.bleepingcomputer.com/news/security/widely-used-modems-in-industrial-iot-devices-open-to-sms-attack/) | widely used modems in industrial iot devices open to sms attack|
 
 
 ---
@@ -380,9 +382,10 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [ISA Global Cyber Alliance](https://isagca.org/) | The main page of the ISA Global Cybersecurity Alliance (ISAGCA), a global consortium working to secure critical infrastructure |
 | [Institute of Electrical and Electronics Engineers](https://www.ieee.org/) | not full ICS oriented , but one of the biggest organisations in the electrical and  electronics engeniering field|
-
+| [The ICS Advisory Project](https://github.com/icsadvprj/ICS-Advisory-Project) | The ICS Advisory Project is an open-source project to provide DHS CISA ICS Advisories data in Comma Separated Value (CSV) format to support vulnerability analysis for the ICS/OT community.  |
 ---
 
 ### Many thanks to our contributors
 
-[Biero](https://github.com/biero-el-corridor), [Winter-lab](https://github.com/Winter-lab/), [RedBlue232](https://github.com/RedBlue232), [HashBadG](https://github.com/HashBadG/).
+[Biero](https://github.com/biero-el-corridor), [Winter-lab](https://github.com/Winter-lab/), [RedBlue232](https://github.com/RedBlue232), [HashBadG](https://github.com/HashBadG/) [summoningshells](https://github.com/summoningshells).
+
