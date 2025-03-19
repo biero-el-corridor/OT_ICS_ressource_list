@@ -23,6 +23,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
       - [public ip browser](#public-ip-browser)
       - [IP browser api automations tool](#ip-browser-api-automations-tool)
       - [ICS honeypot detection](#ics-honeypot-detection)
+    - [ICS Cyber Treath Inteligence repport](#ics_cti)
     - [ICS\_CERT](#ics_cert)
     - [ICS\_Protocol](#ics_protocol)
     - [ICS\_ressource\_pcap\_dataset\_collection](#ics_ressource_pcap_dataset_collection)
@@ -40,7 +41,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS\_book](#ics_book)
     - [ICS\_news\_article](#ics_news_article)
     - [ICS\_news\_outlet](#ics_news_outlet)
-    - [ICS\_Requirement-guide\_and\_standart](#ics_requirement-guide_and_standart)
+    - [ICS\_Requirement-guide\_and\_standart](#ics_law_requirement-guide_and_standart)
     - [ICS\_Monitoring\_equipement](#ics_monitoring_equipement)
     - [ICS\_GROUP\_OR\_ALIANCE\_COMITEE](#ics_group_or_aliance_comitee)
 ---
@@ -88,7 +89,26 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [Honeydet conpot simens signature](https://github.com/referefref/honeydet/blob/d3a0a05799d5f7333dad9946d444c13d0440330e/signatures.yaml#L320) |honeydet is a signature based honeypot detector tool written in Golang |
 | [Honeypot Cyber deceptions based paper](https://ceur-ws.org/Vol-3374/paper06.pdf) | Honeypot and cyber deception as a tool for detecting cyber attacks on critical infrastructure |
-| [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip vrowse |
+| [ICSRANK](https://www.icsrank.com/) | Query for search ICS equipent on public ip browser |
+| [biero-el-corridor honepot detections nuclei template](https://github.com/biero-el-corridor/ICS_CPS_nuclei_template/tree/main/template/Honeypot_detection)|template to uwe with nuclei to detec defined honeypot (snap7 & Ethnernet/IP_CIP base)|
+| [ICS Honeypot System (CamouflageNet) Based on Attacker's Human Factors - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2351978915001766) | ICS Honeypot System (2015) |
+
+---
+
+### ICS_CTI
+
+| Title | Description |
+| ----- | ----------- |
+| [Dragos 2018 repport](https://www.dragos.com/wp-content/uploads/Industrial-Control-Threat-Intelligence-Whitepaper.pdf)|Dragos is a ICS CTI compagnie , every year theyr make a repport, this is for the year 2023|
+| [Dragos 2023 repport](https://sekuro.io/wp-content/uploads/2024/05/OT-Cybersecurity-The-2023-Year-In-Review.pdf)|Dragos is a ICS CTI compagnie , every year theyr make a repport, this is for the year 2023|
+| [Dragos 2024 repport](https://hub.dragos.com/hubfs/312-Year-in-Review/2025/Dragos-2025-OT-Cybersecurity-Report-A-Year-in-Review.pdf?hsLang=en)|Dragos is a ICS CTI compagnie , every year theyr make a repport, this is for the year 2024 |
+| [Claroty IOControl repport](https://claroty.com/team82/research/inside-a-new-ot-iot-cyber-weapon-iocontrol)| claroty analyse of IOcontrol mallware|
+| [Mandiant sandworm article](https://cloud.google.com/blog/topics/threat-intelligence/sandworm-disrupts-power-ukraine-operational-technology/?hl=en)| Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology |
+| [CISA Report CCP APT TTP's on ICS](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a)|People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection|
+|[ICS threath inteligence manual](https://www.dragos.com/wp-content/uploads/Industrial-Control-Threat-Intelligence-Whitepaper.pdf)|Industrial Control Threat Intelligence |
+| [waterfall security 2025 OT Cyber Security Threat Report](https://waterfall-security.com/wp-content/uploads/2025/03/2025-OT-Cyber-Security-Threat-Report.pdf) | waterfall security 2025 OT Cyber Security Threat Report |
+| [Mandiant sandworm report ](https://cloud.google.com/blog/topics/threat-intelligence/sandworm-disrupts-power-ukraine-operational-technology/?hl=en) | Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology |
+
 
 ---
 
@@ -146,7 +166,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [SANS ICS Security - Control Systems Are a Target.pdf](https://sansorg.egnyte.com/dl/eQu4hT5fCW) | 3-slide presentation of SANS on ICS/SCADA Security. Pretty cool for education. |
 | [Principles of Information Security, 5th ed. - Principles of Information Security (PDFDrive)](http://www.mim.ac.mw/books/Principles%20of%20Information%20Security%20(%20PDFDrive%20).pdf) | [Down for the moment - Use to be a bible of Cybersec] |
 | [Industrial Control System Security - Top 10 Threats and Countermeasures 2016](https://www.hannovermesse.de/apollo/hannover_messe_2021/obs/Binary/A1087894/Top-10-ICS-Threats_and_Countermeasures.pdf) | BSI publication on OWASP Top 10 like but for ICS Security (2019) |
-| [ICS Honeypot System (CamouflageNet) Based on Attacker's Human Factors - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2351978915001766) | ICS Honeypot System (2015) |
 | [CCE-Phase-1-4-Reference-Document.pdf](https://inl.gov/wp-content/uploads/2021/01/CCE-Phase-1-4-Reference-Document.pdf) | [Down for the moment] |
 | [DEF CON 26 - Thiago Alves - Hacking PLCs and Causing Havoc on Critical Infrastructures - YouTube](https://www.youtube.com/watch?v=-KHel7SyXsU&ab_channel=DEFCONConference) | 40mn-conference on Hacking PLCs with OpenPLC |
 | [Reverse of a Schneider network protocol by Biero Llagas - Medium](https://medium.com/@biero-llagas/reverse-of-a-schneider-network-protocol-1e94980faa57) | A medium article on the UMAS schneider compliant protocol from a pretty cool dude |
@@ -163,6 +182,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Compromising Industrial Processes using Web-Based Programmable Logic Controller Malware](https://www.ndss-symposium.org/wp-content/uploads/2024-49-paper.pdf) | 2024 Research Paper on how to compromise industrial processes using Web-based PLC Malware |
 | [CWE Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) | While IT has an extant body of work related to identifying and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure. |
 | [Unpacking the Blackjack Group's Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware) | Unpacking the Blackjack Group's Fuxnet Malware Ukrenian state sponsor attacking russian PLC|
+| [bsides-ics-ot-tampa](https://www.blackhillsinfosec.com/event/bsides-ics-ot-tampa/) |Bside conference specialised in ICS/OT security|
+| [Read description](https://homeland.house.gov/wp-content/uploads/2024/02/2024-02-06-CIP-HRG-Testimony.pdf) |securing operational technology:a deep dive into the water sectorhearingbefore thesubcommittee on cybersecurity and infrastructure protectionone hundred eighteenth congress|
+| [From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs](https://i.blackhat.com/EU-24/Presentations/EU-24-Zaltzman-From-Pass-the-Hash-to-Code-Execution-wp.pdf) |Black hat 2024: From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs|
 
 ---
 
@@ -192,6 +214,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ICSpector](https://github.com/microsoft/ics-forensics-tools) | Microsoft's ICS Forensics Framework for analyzing PLC metadata and project files. Useful for incident response and forensic investigations. |
 | [ICS PCAP Viz](https://github.com/cutaway-security/ICSPcapViz) | A packet capture visualizer designed for industrial control networks, assisting in network traffic analysis and anomaly detection. |
 | [OpenVAS](http://www.openvas.org/) | An open-source vulnerability scanner capable of detecting security flaws in ICS/OT environments. |
+| [stunnel](https://www.stunnel.org/) |Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code.|
+
 
 ---
 
@@ -260,7 +284,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Global Industrial Cyber Security Professional (GICSP)](https://www.credly.com/badges/252931d5-7467-40df-bba9-e4aa857b0c50/linked_in?t=s69v1d) | GICSP home page for this certification |
 | [ICS Cyber conference](https://www.icscybersecurityconference.com/) | Some conference for ICS |
 | [ISA secure certifications program](https://isasecure.org/) | The ISASecure program delivers OT cybersecurity certifications. |
-
+| [Industrial Control System Cyber Security Institute](https://icscsi.org/training.html) |Industrial Control System Cyber Security Institute training page|
 
 
 ---
@@ -305,6 +329,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [SCADA for Relay Technicians](https://na.eventscloud.com/file_uploads/ea71f859feae020526fd797b0195b9eb_SCADAforRelayTechs-SlidesNotes-HRS2019.pdf) | 2019 book for SCADA beginners |
 | [Cybersécurité des systèmes industriels par Jean-Marie Flaus ](https://www.amazon.fr/Cybers%C3%A9curit%C3%A9-syst%C3%A8mes-industriels-Jean-Marie-Flaus/dp/1784055344) | French book on the ICS system |
 | [The Industrial Control System Cyber Kill Chain](https://icscsi.org/library/Documents/White_Papers/SANS%20-%20ICS%20Cyber%20Kill%20Chain.pdf) | The Industrial Control System Cyber Kill Chain writen in October 2015 by SANS|
+| [The ICS Cybersecurity Field Manual: VOL. 1-3 ](https://www.amazon.fr/ICS-Cybersecurity-Field-Manual-EXCLUSIVE/dp/B0CGG6GMHW) |The ICS Cybersecurity Field Manual: VOL. 1-3 Plus EXCLUSIVE BONUS material |
 
 ---
 
@@ -345,9 +370,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Centralised podcast themed ICS](https://www.listennotes.com/playlists/beerisac-otics-security-podcast-playlist-j-G0QwC8Zsu/episodes/) | A list of ICS themed podcast |
 | [Industrial Cyber news outlet](https://industrialcyber.co/) | Centralised info about vendor news and other articles on ICS and OT |
 
+
+
 ---
 
-### ICS_Requirement-guide_and_standart
+### ICS_law_Requirement-guide_and_standart
 
 | Title | Description |
 | ----- | ----------- |
@@ -361,6 +388,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [CWE VIEW: Weaknesses Addressed by ISA/IEC 62443 Requirements](https://cwe.mitre.org/data/definitions/1424.html) | This view (slice) covers weaknesses that are addressed by following requirements in the ISA/IEC 62443 series of standards for industrial automation and control systems (IACS). Members of the CWE ICS/OT SIG analyzed a set of CWEs and mapped them to specific requirements covered by ISA/IEC 62443. |
 | [ (UK)  Control Of Major Accident Hazards Regulations 2015 (COMAH)](https://www.hse.gov.uk/comah/background/comah15.htm) | Everything's in the title |
 | [(Risk Management) EBIOS RM Method](https://cyber.gouv.fr/sites/default/files/2018/10/guide-methode-ebios-risk-manager.pdf) | The french way of assess the risk, with its 2018 version. You like it ? It's french. |
+| [CISA on CIRCIA](https://www.cisa.gov/topics/cyber-threats-and-advisories/information-sharing/cyber-incident-reporting-critical-infrastructure-act-2022-circia) | In March 2022, President Biden signed into law the Cyber Incident Reporting for Critical Infrastructure Act of 2022 (CIRCIA). Enactment of CIRCIA marked an important milestone in improving America’s cybersecurity by, among other things, requiring the Cybersecurity and Infrastructure Security Agency (CISA) to develop and implement regulations requiring covered entities to report covered cyber incidents and ransomware payments to CISA. |
+| [​​​​​​NERC Reliability Standards ](https://www.nerc.com/pa/Stand/Pages/Default.aspx) | NERC Reliability Standards are developed using an industry-driven, process that ensures the process is open to all persons who are directly and materially affected by the reliability of the North American bulk power system; |
 
 ---
 
@@ -373,6 +402,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Nozomi Network Solutions](https://www.nozominetworks.com/solutions/threat-detection-and-response) | The home page of Nozomi's Threat Detection & Response for Critical Infrastructure & Industrial Security Teams |
 | [SIGASEC](https://sigasec.com/) | A collection of monitoring solutions for OT network |
 | [Leroy Automation](https://www.leroy-automation.com/gammes/range_tes/) | French PLC manufacturer|
+| [waterfall security](https://waterfall-security.com/) ||
+| [Owlcyberdefence](https://owlcyberdefense.com/) |data diode provider|
 
 ---
 
