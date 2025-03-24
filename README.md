@@ -215,6 +215,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ICS PCAP Viz](https://github.com/cutaway-security/ICSPcapViz) | A packet capture visualizer designed for industrial control networks, assisting in network traffic analysis and anomaly detection. |
 | [OpenVAS](http://www.openvas.org/) | An open-source vulnerability scanner capable of detecting security flaws in ICS/OT environments. |
 | [stunnel](https://www.stunnel.org/) |Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code.|
+| [FuzzySully](https://github.com/ANSSI-FR/fuzzysully) |FuzzySully is an OPC UA fuzzer built upon Fuzzowski. It is a specialized testing tool designed to identify vulnerabilities and bugs in OPC UA implementations. The fuzzer operates by generating and sending a large number of malformed or unexpected messages to an OPC UA server or client, with the goal of triggering unexpected behavior or crashes.|
 
 
 ---
