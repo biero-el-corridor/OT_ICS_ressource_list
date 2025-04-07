@@ -185,6 +185,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [bsides-ics-ot-tampa](https://www.blackhillsinfosec.com/event/bsides-ics-ot-tampa/) |Bside conference specialised in ICS/OT security|
 | [Read description](https://homeland.house.gov/wp-content/uploads/2024/02/2024-02-06-CIP-HRG-Testimony.pdf) |securing operational technology:a deep dive into the water sectorhearingbefore thesubcommittee on cybersecurity and infrastructure protectionone hundred eighteenth congress|
 | [From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs](https://i.blackhat.com/EU-24/Presentations/EU-24-Zaltzman-From-Pass-the-Hash-to-Code-Execution-wp.pdf) |Black hat 2024: From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs|
+| [Exploring URGENT/11 Vulnerabilitie]() | Exploring and Exploiting Programmable Logic    Controllers with URGENT/11 Vulnerabilitie |
+| [Bypassing Authentication in Schneider Electric PLCs (M340/M580)](https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34) | Examining Crypto and Bypassing Authentication in Schneider Electric PLCs (M340/M580) |
 
 ---
 
@@ -216,7 +218,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [OpenVAS](http://www.openvas.org/) | An open-source vulnerability scanner capable of detecting security flaws in ICS/OT environments. |
 | [stunnel](https://www.stunnel.org/) |Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code.|
 | [FuzzySully](https://github.com/ANSSI-FR/fuzzysully) |FuzzySully is an OPC UA fuzzer built upon Fuzzowski. It is a specialized testing tool designed to identify vulnerabilities and bugs in OPC UA implementations. The fuzzer operates by generating and sending a large number of malformed or unexpected messages to an OPC UA server or client, with the goal of triggering unexpected behavior or crashes.|
-
+| [Power_Grid_Simulation_System_Document](https://github.com/LiuYuancheng/Power_Grid_Simulation_System_Document) | The Mini OT Power Grid Simulation System is a digital equivalent software platform designed to simulate the core operations of a hybrid power grid system, including hybrid power generation (natural gas power plants, solar power plants, and wind turbine farms), high-voltage power transmission and a three-level step-down power distribution system. The simulation integrates a SCADA system that incorporates PLCs for remote system control, RTUs and MUs for real-time data monitoring, and an HMI interface for operators to manage the grid. |
+| [EcoStruxure Control Expert V15.3 installation file.](https://www.se.com/us/en/download/document/EcoStruxureControlExpert-V15.3/) | Free trialversion of EcoStruxure Control Expert |
+| [Schneider eletric Exploit PoC](https://github.com/0xedh/schneider_plc_exploit/tree/main) | Modicon M580/M340 Safety Protection bypass and utils.|
 
 ---
 
