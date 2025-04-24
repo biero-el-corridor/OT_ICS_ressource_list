@@ -3,7 +3,7 @@
 Welcome to our collaborative OT/ICS Resource List Repository. This space is dedicated to assembling a wide range of resources that cover everything from foundational learning materials to sophisticated tools and datasets for those involved in Operational Technology and Industrial Control Systems cybersecurity. By pooling knowledge from various sources, we aim to foster a learning and working environment that encourages sharing and growth. Each entry in this repository has been selected for its relevance and utility in addressing the unique challenges of OT cybersecurity. We invite you to explore, contribute, and help us keep this resource vibrant and current for the global cybersecurity community.
 
 
-My personal OT resource list, gathered through research and internet adventures.
+Collaboration based OT resource list, gathered through research and internet adventures.
 
 The purpose of this wiki is basically to cover a large sprectrum of Cybersecurity for the OT field, from training to simple definitions of the technical knowledge.
 
