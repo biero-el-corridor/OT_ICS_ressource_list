@@ -38,12 +38,13 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS PLC and Protocol Emulator](#ics-plc-and-protocol-emulator)
     - [ICS Firmware](#ics-firmware)
   - [ICS Lab Setup And Hacking Tutorial](#ics-lab-setup-and-hacking-tutorial)
-    -[ICS Lab Setup](#ics-lab-setup)
-    -[ICS Hacking tools and Tutorial](#ics-hacking-tools-and-tutorial)
+    - [ICS Lab Setup](#ics-lab-setup)
+    - [ICS Hacking tools and Tutorial](#ics-hacking-tools-and-tutorial)
   - [ICS Outlet, article and books](#ics-outlet-article-and-books)
     - [ICS news outlet](#ics-news-outlet)
     - [ICS news articles](#ics-news-article)
     - [ICS books](#ics-books)
+  - [Forum](#ics_forum)
   - [Hardware](#hardware)
     - [Hardware Materials and Emulator](#hardware-materials-and-emulator)
     - [Hardware hacking tutorial](#hardware-hacking-tutorials)
@@ -58,6 +59,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
   - [ICS Vendor and equipement](#ics-vendor-and-equipement)
     - [ICS security Equipement](#ics-security-equipement)
     - [ICS security Vendor](#ics-security-vendor)
+    
 ---
 
 # ICS challenge
@@ -71,6 +73,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Hack a Sat challenge](https://hackasat.com/) | A fun challenge that bridges the cybersecurity aficionados and space program lovers |
 | [Red Alert ICS CTF](https://forum.defcon.org/node/249872) | One of the ICS themed CTF of the DefCon conference|
 | [Biero el corridor brutal tank challenge](https://github.com/biero-el-corridor/Talk_Workshop_and_Chall_creation/tree/main/Challenge/Brutal_Tank) | Challenge created for cyberdefender , you can play it localy via this repository |
+| [Hackropol ICS related challenge](https://hackropole.fr/fr/industrial-protocol/) | Hackropole and the FCSC database, here are all the challenges related to the industrial control system that the FCSC has proposed since its creation.|
+| [Ace Responder ICS challenge: under pressure](https://www.aceresponder.com/challenge/under-pressure) |Ace Responder is a blue team training platform, this is their OCS related DFIR challenge.|
+| [DFRWS 2023 Challenge on Industrial Control System Forensics](https://dfrws.org/dfrws-2023-challenge/) ||
+| [github repository for the the above link ](https://github.com/dfrws/dfrws2023-challenge) | DFRWS 2023 Challenge on Industrial Control System Forensics github repos|
+
 
 ---
 
@@ -89,6 +96,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[ICS threath inteligence manual](https://www.dragos.com/wp-content/uploads/Industrial-Control-Threat-Intelligence-Whitepaper.pdf)|Industrial Control Threat Intelligence |
 | [waterfall security 2025 OT Cyber Security Threat Report](https://waterfall-security.com/wp-content/uploads/2025/03/2025-OT-Cyber-Security-Threat-Report.pdf) | waterfall security 2025 OT Cyber Security Threat Report |
 | [Mandiant sandworm report ](https://cloud.google.com/blog/topics/threat-intelligence/sandworm-disrupts-power-ukraine-operational-technology/?hl=en) | Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology |
+| [IOC/TTP on China-nexus campain](https://otx.alienvault.com/pulse/6825846637a467872cdf202b) |IOC&TTP - China-Nexus Nation State Actors Exploit SAP NetWeaver|
+| [Report on China-nexus actions](https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures) |China-Nexus Nation State Actors Exploit SAP NetWeaver (CVE-2025-31324) to Target Critical Infrastructures|
+
 
 ---
 
@@ -99,6 +109,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [CERT ABB Group](https://global.abb/group/en/technology/cyber-security/alerts-and-notifications) | ABB CERT and alert services |     
 | [CERT Schneider](https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp) | Cybersecurity support portal of Schneider CERT |     
 | [Dragos CVE disclosure](https://www.dragos.com/advisories/) | Dragos CVE Discosure  |
+
+
 
 ---
 # ICS OSINT
@@ -279,6 +291,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [How to set up an OT analysis lab.  by biero llagas  Medium](https://medium.com/@biero-llagas/how-to-set-up-an-ot-analysis-lab-351a111ab33e) | A Medium article on how to set up an OT analysis lab on the S7comm protocol made by a cool dude |  
 | [stunnel](https://www.stunnel.org/) |Stunnel is a proxy designed to add TLS encryption functionality to existing clients and servers without any changes in the programs' code.|
 | [ICS PCAP Viz](https://github.com/cutaway-security/ICSPcapViz) | A packet capture visualizer designed for industrial control networks, assisting in network traffic analysis and anomaly detection. |
+| [Python Virtual PLC Simulator with IEC-60870-5-104 Communication Protocol ](https://www.linkedin.com/pulse/python-virtual-plc-simulator-iec-60870-5-104-protocol-yuancheng-liu-bov7c/?trackingId=4Ge4VLj3cFhFjGCy%2Bw32fA%3D%3D) |self explanatory|
+| [Simulating Simple Railway Station Train Dock and Depart Auto-Control System with IEC104 PLC Simulator](https://www.linkedin.com/pulse/simulating-simple-railway-station-train-dock-depart-auto-control-liu-vsscc/?trackingId=ytxH9nNTsAAy%2FJ11Dhl8Jw%3D%3D) |self explanatory|
+| [Lab setup of a Schenider electric ecosystem](https://medium.com/@biero-llagas/lab-setup-notice-non-uniformity-for-authentication-system-security-modicon-emulator-on-1a0b743cb386) |Lab setup || Notice non-uniformity for authentication system security: modicon emulator on Schneider electric Controle expert Classique (Part1).|
 
 ## ICS Hacking tools and Tutorial
 
@@ -291,8 +306,9 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [ControlThings.io - Tools](https://www.controlthings.io/tools) | A collection of tools for OT/ICS pentesting made by ControlThings |
 | [Bypassing Authentication in Schneider Electric PLCs (M340/M580)](https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34) | Examining Crypto and Bypassing Authentication in Schneider Electric PLCs (M340/M580) |
 | [Schneider eletric Exploit PoC](https://github.com/0xedh/schneider_plc_exploit/tree/main) | Modicon M580/M340 Safety Protection bypass and utils.|
-| [OpenVAS](http://www.openvas.org/) | An open-source vulnerability scanner capable of detecting security flaws in ICS/OT environments. |
 | [FuzzySully](https://github.com/ANSSI-FR/fuzzysully) |FuzzySully is an OPC UA fuzzer built upon Fuzzowski. It is a specialized testing tool designed to identify vulnerabilities and bugs in OPC UA implementations. The fuzzer operates by generating and sending a large number of malformed or unexpected messages to an OPC UA server or client, with the goal of triggering unexpected behavior or crashes.|
+| [Compromising Critical Infrastructure by Reversing SCADA Software](https://vrls.ws/posts/2025/04/red-team-compromising-critical-infrastructure-by-reversing-scada-software/) ||
+
 
 ---
 # ICS Outlet Article and Books
@@ -343,6 +359,13 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Cybersécurité des systèmes industriels par Jean-Marie Flaus ](https://www.amazon.fr/Cybers%C3%A9curit%C3%A9-syst%C3%A8mes-industriels-Jean-Marie-Flaus/dp/1784055344) | French book on the ICS system |
 | [The Industrial Control System Cyber Kill Chain](https://icscsi.org/library/Documents/White_Papers/SANS%20-%20ICS%20Cyber%20Kill%20Chain.pdf) | The Industrial Control System Cyber Kill Chain writen in October 2015 by SANS|
 | [The ICS Cybersecurity Field Manual: VOL. 1-3 ](https://www.amazon.fr/ICS-Cybersecurity-Field-Manual-EXCLUSIVE/dp/B0CGG6GMHW) |The ICS Cybersecurity Field Manual: VOL. 1-3 Plus EXCLUSIVE BONUS material |
+
+
+# ICS_Forum
+
+| Title | Description |
+| ----- | ----------- |
+| [International PLC Forum](https://plcforum.uz.ua/)  | International PLC Forum |
 
 ---
 # Hardware
@@ -463,4 +486,4 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 ---
 # Many thanks to our contributors
 
-[Biero](https://github.com/biero-el-corridor), [Winter-lab](https://github.com/Winter-lab/), [RedBlue232](https://github.com/RedBlue232), [HashBadG](https://github.com/HashBadG/) [summoningshells](https://github.com/summoningshells).
+[Biero](https://github.com/biero-el-corridor), [Winter-lab](https://github.com/Winter-lab/), [RedBlue232](https://github.com/RedBlue232), [HashBadG](https://github.com/HashBadG/), [summoningshells](https://github.com/summoningshells).
