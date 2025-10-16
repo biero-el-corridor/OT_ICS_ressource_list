@@ -9,7 +9,7 @@ The purpose of this wiki is basically to cover a large sprectrum of Cybersecurit
 
 ## Information
 
-If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ICS ressource collection](#ics_ressource_collections), [ICS Lab Setup And Hacking Tutorial](#ics_lab_setup_and_hacking_tutorial), and [ICS news outlet](#ics_news_outlet).
+If you are here to search for resources and mass information on different protocols and concepts, I advise you to go directly to the sections [ICS ressource collection](#ics_ressource_collections), [ICS Lab Setup](#ics-lab-setup), and [ICS news outlet](#ics_news_outlet).
 
 The rest is just a compilation of my own research. If you are interested, an HTML bookmark file, usable on Firefox, is available.
 
@@ -37,9 +37,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS Tools](#ics-tools)
     - [ICS PLC and Protocol Emulator](#ics-plc-and-protocol-emulator)
     - [ICS Firmware](#ics-firmware)
-  - [ICS Lab Setup And Hacking Tutorial](#ics-lab-setup-and-hacking-tutorial)
+  - [ICS Lab Setup](#ics-lab-setup)
     - [ICS Lab Setup](#ics-lab-setup)
-    - [ICS Hacking tools and Tutorial](#ics-hacking-tools-and-tutorial)
   - [ICS Outlet, article and books](#ics-outlet-article-and-books)
     - [ICS news outlet](#ics-news-outlet)
     - [ICS news articles](#ics-news-article)
@@ -59,7 +58,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
   - [ICS Vendor and equipement](#ics-vendor-and-equipement)
     - [ICS security Equipement](#ics-security-equipement)
     - [ICS security Vendor](#ics-security-vendor)
-    
+  - [ICS Blue Team](#ics-blue-team)
+    - [ICS Forensic](#ics-forensic)
+    - [ICS SOC](#ics-soc)
+      - [ICS Rules](#ics-rules)
+ - [ICS Exploit Pentest & Red Team](#ics-exploit-pentest--red-team)
 ---
 
 # ICS challenge
@@ -77,7 +80,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Ace Responder ICS challenge: under pressure](https://www.aceresponder.com/challenge/under-pressure) |Ace Responder is a blue team training platform, this is their OCS related DFIR challenge.|
 | [DFRWS 2023 Challenge on Industrial Control System Forensics](https://dfrws.org/dfrws-2023-challenge/) ||
 | [github repository for the the above link ](https://github.com/dfrws/dfrws2023-challenge) | DFRWS 2023 Challenge on Industrial Control System Forensics github repos|
-
 
 ---
 
@@ -278,7 +280,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 |[Siemens LOGO firmware download page](https://support.industry.siemens.com/cs/document/109812710/firmware-update-v1-83-02-for-logo!-8-3-basic-devices?dti=0&lc=en-FR) | siemens website , siemens LOGO PLC  firmware download page |
 
 ---
-# ICS Lab Setup And Hacking Tutorial
+# ICS Lab Setup
 
 ## ICS Lab Setup
 
@@ -294,20 +296,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Python Virtual PLC Simulator with IEC-60870-5-104 Communication Protocol ](https://www.linkedin.com/pulse/python-virtual-plc-simulator-iec-60870-5-104-protocol-yuancheng-liu-bov7c/?trackingId=4Ge4VLj3cFhFjGCy%2Bw32fA%3D%3D) |self explanatory|
 | [Simulating Simple Railway Station Train Dock and Depart Auto-Control System with IEC104 PLC Simulator](https://www.linkedin.com/pulse/simulating-simple-railway-station-train-dock-depart-auto-control-liu-vsscc/?trackingId=ytxH9nNTsAAy%2FJ11Dhl8Jw%3D%3D) |self explanatory|
 | [Lab setup of a Schenider electric ecosystem](https://medium.com/@biero-llagas/lab-setup-notice-non-uniformity-for-authentication-system-security-modicon-emulator-on-1a0b743cb386) |Lab setup || Notice non-uniformity for authentication system security: modicon emulator on Schneider electric Controle expert Classique (Part1).|
-
-## ICS Hacking tools and Tutorial
-
-| Title | Description |
-| ----- | ----------- |
-| [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/) | [Down for the moment] A tutorial on PLC hacking |   
-| [Let’s Call It a Day — Virtual SCADA Hacking with GRFICSv2 Part 1  ](https://medium.com/@kelvin.w/lets-call-it-a-day-virtual-scada-hacking-with-grficsv2-part-1-4c0dd257724e) | A tutorial on how to exploit built-in ICS functionality to shut down a virtual plant simulator |
-| [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec) | Well, it's the 2nd part of the article below |
-| [Fortiphyd Logic - YouTube](https://www.youtube.com/channel/UCt8y1lf8UBoZipoLj0a8pVA) | A gold mine of a youtube channel about built solutions for security and operations in IT and OT |  
-| [ControlThings.io - Tools](https://www.controlthings.io/tools) | A collection of tools for OT/ICS pentesting made by ControlThings |
-| [Bypassing Authentication in Schneider Electric PLCs (M340/M580)](https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34) | Examining Crypto and Bypassing Authentication in Schneider Electric PLCs (M340/M580) |
-| [Schneider eletric Exploit PoC](https://github.com/0xedh/schneider_plc_exploit/tree/main) | Modicon M580/M340 Safety Protection bypass and utils.|
-| [FuzzySully](https://github.com/ANSSI-FR/fuzzysully) |FuzzySully is an OPC UA fuzzer built upon Fuzzowski. It is a specialized testing tool designed to identify vulnerabilities and bugs in OPC UA implementations. The fuzzer operates by generating and sending a large number of malformed or unexpected messages to an OPC UA server or client, with the goal of triggering unexpected behavior or crashes.|
-| [Compromising Critical Infrastructure by Reversing SCADA Software](https://vrls.ws/posts/2025/04/red-team-compromising-critical-infrastructure-by-reversing-scada-software/) ||
 
 
 ---
@@ -347,6 +335,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [OT Hunt: Finding ICS/OT with ZoomEye](https://alhasawi.medium.com/ot-hunt-finding-ics-ot-with-zoomeye-2fdb303b7f01) | Article on ZoomEye and how to use it. It's not that incredible article but it can help |
 | [Water management system hack](https://arstechnica.com/security/2023/11/2-municipal-water-facilities-report-falling-to-hackers-in-separate-breaches/) | 2 municipal water facilities report falling to hackers in separate breaches |
 | [widely used modems in industrial iot devices open to sms attack](https://www.bleepingcomputer.com/news/security/widely-used-modems-in-industrial-iot-devices-open-to-sms-attack/) | widely used modems in industrial iot devices open to sms attack|
+| [KNX protocol base locker attack summary](https://limessecurity.com/en/knxlock/) | KNXlock – an attack campaign against KNX-based building automation systems |
+
 
 ## ICS books
 
@@ -441,6 +431,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf) | DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE |
 | [NIST Special Publication SP 800-82r3 Guide to Operational Technology Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) | Fundamental requirement for anybody who wants to start a OT security program |
+| [Saudi Arabia Operatinos Technology Cyber Control](https://nca.gov.sa/otcc_en.pdf) | Saudi Arabia versions of implementations of different requirement|
+
 
 ## ICS Law and Act
 
@@ -482,6 +474,49 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [waterfall security](https://waterfall-security.com/) ||
 | [Owlcyberdefence](https://owlcyberdefense.com/) |data diode provider|
 | [Custocy](https://www.custocy.ai/) | they do OT stuff |
+
+# ICS Blue Team
+
+## ICS Forensic
+
+| Title | Description |
+| ----- | ----------- |
+| [Microsoft ICS Forensic Tools](https://github.com/microsoft/ics-forensics-tools) | Microsoft opensource ICS forensic tools |
+| [Claroty team 82 forensic plogpost on unitronix PLC](https://fr.claroty.com/team82/research/from-exploits-to-forensics-unraveling-the-unitronics-attack) | From Exploits to Forensics: Unraveling the Unitronics Attack |
+
+## ICS SOC
+
+| Title | Description |
+| ----- | ----------- |
+| [Malcolm ICS](https://github.com/cisagov/Malcolm/blob/main/docs/live-analysis.md) | Malcolm is a powerful network traffic analysis maintained and updated by CISA and the Idaho National Laboratory (INL)|
+| [Documentation for Malcolm ICS](https://malcolm.fyi/docs/) | Documentation for Malcolm ICS |
+
+### ICS Rules
+
+| Title | Description |
+| ----- | ----------- |
+| [Suricata rules for ICS detections](https://github.com/cisagov/Malcolm/tree/main/suricata/rules-default/OT/malcolm) | A collection of Suricata rules for ICS detections (Unitronics & Zyxel) |
+| [Standard rules for custom protocols](https://github.com/OISF/suricata/tree/main/rules) | Standard rules for custom protocols like DNP3, ENIP, and Modbus |
+| [Suricata rules for Nmap detections](https://github.com/CyberICS/Suricata-Rules-for-ICS-SCADA) | Suricata rules for detecting Nmap fingerprinting packets sent for ICS protocols |
+| [Snort rules for exploit detections](https://github.com/nsacyber/ELITEWOLF) | NSA-backed repository for exploit detection in ICS environments |
+
+
+
+# ICS Exploit Pentest & Red Team
+
+| Title | Description |
+| ----- | ----------- |
+| [PLC Hacking (Pt. 1)  Redfox Security](https://redfoxsec.com/blog/plc-hacking-part-1/) | [Down for the moment] A tutorial on PLC hacking |   
+| [Let’s Call It a Day — Virtual SCADA Hacking with GRFICSv2 Part 1  ](https://medium.com/@kelvin.w/lets-call-it-a-day-virtual-scada-hacking-with-grficsv2-part-1-4c0dd257724e) | A tutorial on how to exploit built-in ICS functionality to shut down a virtual plant simulator |
+| [Going Out With a Bang — Virtual SCADA Hacking with GRFICSv2 Part 2 ](https://systemweakness.com/going-out-with-a-bang-virtual-scada-hacking-with-grficsv2-part-2-3db8a03c45ec) | Well, it's the 2nd part of the article below |
+| [Fortiphyd Logic - YouTube](https://www.youtube.com/channel/UCt8y1lf8UBoZipoLj0a8pVA) | A gold mine of a youtube channel about built solutions for security and operations in IT and OT |  
+| [ControlThings.io - Tools](https://www.controlthings.io/tools) | A collection of tools for OT/ICS pentesting made by ControlThings |
+| [Bypassing Authentication in Schneider Electric PLCs (M340/M580)](https://medium.com/tenable-techblog/examining-crypto-and-bypassing-authentication-in-schneider-electric-plcs-m340-m580-f37cf9f3ff34) | Examining Crypto and Bypassing Authentication in Schneider Electric PLCs (M340/M580) |
+| [Schneider eletric Exploit PoC](https://github.com/0xedh/schneider_plc_exploit/tree/main) | Modicon M580/M340 Safety Protection bypass and utils.|
+| [FuzzySully](https://github.com/ANSSI-FR/fuzzysully) |FuzzySully is an OPC UA fuzzer built upon Fuzzowski. It is a specialized testing tool designed to identify vulnerabilities and bugs in OPC UA implementations. The fuzzer operates by generating and sending a large number of malformed or unexpected messages to an OPC UA server or client, with the goal of triggering unexpected behavior or crashes.|
+| [Compromising Critical Infrastructure by Reversing SCADA Software](https://vrls.ws/posts/2025/04/red-team-compromising-critical-infrastructure-by-reversing-scada-software/) ||
+
+
 
 ---
 # Many thanks to our contributors
