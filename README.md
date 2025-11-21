@@ -39,10 +39,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
     - [ICS Firmware](#ics-firmware)
   - [ICS Lab Setup](#ics-lab-setup)
     - [ICS Lab Setup](#ics-lab-setup)
-  - [ICS Outlet, article and books](#ics-outlet-article-and-books)
+  - [ICS Outlet, article , book and podcast](#ics-news-outlet-article-books-and-podcast)
     - [ICS news outlet](#ics-news-outlet)
     - [ICS news articles](#ics-news-article)
     - [ICS books](#ics-books)
+    - [ICS podcast](#ics-podcast)
   - [Forum](#ics_forum)
   - [Hardware](#hardware)
     - [Hardware Materials and Emulator](#hardware-materials-and-emulator)
@@ -100,6 +101,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Mandiant sandworm report ](https://cloud.google.com/blog/topics/threat-intelligence/sandworm-disrupts-power-ukraine-operational-technology/?hl=en) | Sandworm Disrupts Power in Ukraine Using a Novel Attack Against Operational Technology |
 | [IOC/TTP on China-nexus campain](https://otx.alienvault.com/pulse/6825846637a467872cdf202b) |IOC&TTP - China-Nexus Nation State Actors Exploit SAP NetWeaver|
 | [Report on China-nexus actions](https://blog.eclecticiq.com/china-nexus-nation-state-actors-exploit-sap-netweaver-cve-2025-31324-to-target-critical-infrastructures) |China-Nexus Nation State Actors Exploit SAP NetWeaver (CVE-2025-31324) to Target Critical Infrastructures|
+| [SANS State of ICS/OT Security 2025]("https://drive.google.com/file/d/1_AUjyy5IJsDeA2-vqMoQXLR2yoEbca1U/view) ||
 
 
 ---
@@ -238,6 +240,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs](https://i.blackhat.com/EU-24/Presentations/EU-24-Zaltzman-From-Pass-the-Hash-to-Code-Execution-wp.pdf) |Black hat 2024: From Pass-the-Hash to Code Execution on Schneider Electric M340 PLCs|
 | [Exploring URGENT/11 Vulnerabilitie]() | Exploring and Exploiting Programmable Logic    Controllers with URGENT/11 Vulnerabilitie |
 | [Armis report on VxWorks exploit used by Schneider & Rockwell](https://info.armis.com/rs/645-PDC-047/images/Armis-URGENT11-on-OT-WP.pdf) | Exploring and Exploiting Programmable Logic Controllers with URGENT/11 Vulnerabilities |
+| [Fuzzing_ICS_protocols](https://1modm.github.io/Fuzzing_ICS_protocols.html) | Great article the express the aproach of the writer to fuzze BACNet and modbus protocol|
+| [Slide : Attacking and Defending Mission Critical ICS Assets ](https://events.afcea.org/Augusta25/Custom/Handout/Speaker0_Session11978_1.pdf) | From Don C. Weber – SANS Certified Instructor and Author |
 
 ---
 # ICS Tool Firmware And PLC Emulator
@@ -296,10 +300,11 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Python Virtual PLC Simulator with IEC-60870-5-104 Communication Protocol ](https://www.linkedin.com/pulse/python-virtual-plc-simulator-iec-60870-5-104-protocol-yuancheng-liu-bov7c/?trackingId=4Ge4VLj3cFhFjGCy%2Bw32fA%3D%3D) |self explanatory|
 | [Simulating Simple Railway Station Train Dock and Depart Auto-Control System with IEC104 PLC Simulator](https://www.linkedin.com/pulse/simulating-simple-railway-station-train-dock-depart-auto-control-liu-vsscc/?trackingId=ytxH9nNTsAAy%2FJ11Dhl8Jw%3D%3D) |self explanatory|
 | [Lab setup of a Schenider electric ecosystem](https://medium.com/@biero-llagas/lab-setup-notice-non-uniformity-for-authentication-system-security-modicon-emulator-on-1a0b743cb386) |Lab setup || Notice non-uniformity for authentication system security: modicon emulator on Schneider electric Controle expert Classique (Part1).|
-
+| [RS485 modbus rtu lab creations](https://medium.com/@biero-llagas/making-a-rs485-themed-challenge-serial-gate-flipper-zero-modbus-rtu-shield-compatible-925dee9dcee1) | exploit modbus rtu with a flipper zero , and learn how to setup the environement|
+| [ First part of a serie covering the instalations of malcolm ICS](https://medium.com/@biero-llagas/setup-and-tune-an-ot-soc-part-1-lab-setup-and-malcolm-installation-with-hedgehog-sensor-fe6bc8416bcf) | go haed this serie wiil cover setup and fine tune macolm ics with suricata rule ans adversary emulations|
 
 ---
-# ICS Outlet Article and Books
+# ICS news Outlet, Article, Books and podcast
 
 ## ICS news outlet
 
@@ -350,6 +355,13 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [The Industrial Control System Cyber Kill Chain](https://icscsi.org/library/Documents/White_Papers/SANS%20-%20ICS%20Cyber%20Kill%20Chain.pdf) | The Industrial Control System Cyber Kill Chain writen in October 2015 by SANS|
 | [The ICS Cybersecurity Field Manual: VOL. 1-3 ](https://www.amazon.fr/ICS-Cybersecurity-Field-Manual-EXCLUSIVE/dp/B0CGG6GMHW) |The ICS Cybersecurity Field Manual: VOL. 1-3 Plus EXCLUSIVE BONUS material |
 
+## ICS podcast
+
+| Title | Description |
+| ----- | ----------- |
+| [beerisac](https://podcasts.apple.com/rw/podcast/beerisac-ot-ics-security-podcast-playlist/id1459741251) | A curated playlist of Operational Technology and ICS Cyber Security related podcast episodes [any language] by ICS Security enthusiasts. |
+| [Unsolicited Response](https://dale-peterson.com/podcast-2/) | Podcast of Dale Peterson about ICS security |
+| [The Industrial Security Podcast](https://podcastrepublic.net/podcast/1441395559) | |
 
 # ICS_Forum
 
@@ -375,6 +387,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | ----- | ----------- |
 | [#01 - Identifying Components - Hardware Hacking Tutorial](https://www.youtube.com/watch?v=LSQf3iuluYo&list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU&ab_channel=MakeMeHack) | A 15mn-tutorial video on youtube if you're looking for a very good introduction to hardware hacking | 
 | [Make Me Hack - A hardware reverse youtube channel](https://www.youtube.com/@MakeMeHack) | Everything related to Hardware Hacking and Reverse Engineering including tutorials for beginners and more advanced stuff |
+| [Smiirl counter firmware dump](https://gist.github.com/biero-el-corridor/9719b23a23ed4efb15d76664002fbb4a) | Gist on how to dump firmware from u-boot md.d |
 
 ## Datasheet Database
 
@@ -392,6 +405,13 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [IC logo Database](https://www.elnec.com/en/support/ic-logos/?method=logo) | Everything's in the title |
 | [An Affordable And Programmable PLC Hackaday](https://hackaday.com/2022/12/08/an-affordable-and-programmable-plc/) | A review of an alternative of a PLC |
 | [TechInfoDepot Wiki](https://techinfodepot.shoutwiki.com/wiki/Main_Page) | Wiki about ICS, but it's not wikipedia |
+
+## Hardware hacking blog post
+| Title | Description |
+| ----- | ----------- |
+| [Reverse of a cisco hwic 3g cdma](https://hackaday.io/project/168542-cisco-hwic-3g-cdma-as-a-cheap-fpga-board/log/171121-reverse-engineering-the-cisco-hwic-3g-cdma) | |
+| [Rop chain pre-hauth on security camera](https://modzero.com/en/blog/no-leak-no-problem/) | as the title said a masterclass|
+| [Flock security camera audit](https://gainsec.com/2025/09/27/button-presses-to-shell-on-flock-safety-license-plate-cameras-over-wi-fi/) | audit covering the scandalous state of flock security camera|
 
 ---
 # ICS Training
