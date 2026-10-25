@@ -221,6 +221,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [BACnet Vendor ID](https://bacnet.org/assigned-vendor-ids/) | BACnet offical Assigned Vendor IDs |
 | [BACnet MS/TP Capture Tool Documentation](https://github.com/stargieg/bacnet-stack/blob/master/demo/mstpcap/mstpcap.txt) | Documentation for the BACnet MS/TP packet capture tool from the bacnet-stack project. |
 | [Siemens LOGO! Parameter VM Mapping](https://support.industry.siemens.com/cs/mdm/100782807?c=85315142923&lc=en-US) | Siemens support page for parameter VM mapping on LOGO! 0BA7 and later devices. |
+| [Easy BACnet points lists](https://easybacnet.com/bacnet-points-lists/) | Free BACnet/IP object lists (type, instance, units, access) for 122 HVAC devices from 39 manufacturers, as CSV/EDE. |
 
 ## ICS Pcap collections
 
