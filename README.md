@@ -529,6 +529,8 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf) | DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE |
 | [NIST Special Publication SP 800-82r3 Guide to Operational Technology Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) | Fundamental requirement for anybody who wants to start a OT security program |
 | [Saudi Arabia Operatinos Technology Cyber Control](https://nca.gov.sa/otcc_en.pdf) | Saudi Arabia versions of implementations of different requirement |
+| [NERC CIP-003-9 for low-impact sites: the plan and the evidence](https://gridsafetech.com/resources/cip-003-low-impact/) | Section-by-section walkthrough of the NERC CIP-003-9 low impact plan (Attachment 1, including the vendor remote access section in effect since April 2026) and the evidence that shows each part is followed at solar, wind and battery storage sites. |
+| [NERC CIP glossary in plain language](https://gridsafetech.com/resources/nerc-cip-glossary/) | Plain-language definitions of the NERC CIP terms OT teams meet first (BES Cyber System, ESP, EACMS, PACS, Transient Cyber Asset and others). |
 
 ## ICS Law and Act
 
@@ -584,6 +586,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [Custocy](https://www.custocy.ai/) | they do OT stuff |
 | [OTORIO](https://www.otorio.com/) | OT security solutions and exposure management vendor specializing in risk assessment and attack surface management for industrial environments. |
 | [OTbase - OT Asset Management](https://otbase.com/) | OT asset management software for discovering, tracking and managing operational technology assets across industrial networks. |
+| [GridSafe Technology](https://gridsafetech.com/) | On-premises, air-gapped-capable platform that collects NERC CIP evidence read-only from OT devices (firewalls, RTACs, inverters, meters) at solar, wind and battery storage sites. |
 
 # ICS Blue Team
 
